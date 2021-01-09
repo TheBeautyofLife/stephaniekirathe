@@ -1,0 +1,290 @@
+// Color
+@import "./components/colour.scss";
+@import "./components/main.scss";
+
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lucida+Grande&display=swap');
+
+body {
+    // overflow-x: hidden;
+}
+
+body,
+.display-1,
+.main-app-title,
+.body-1 {
+    color: $loci-gray !important;
+    font-family: Helvetica Neue;
+}
+
+.display-4,
+.title {
+    // color: $loci-gray !important;
+    font-family: Helvetica Neue;
+}
+.display-5 {
+  font-size: 120px;
+    // color: $loci-gray !important;
+    font-family: Helvetica Neue;
+}
+
+.title,
+.display-2,
+.display-3 {
+  font-family: Helvetica Neue;
+}
+
+.theme--light.v-application {
+  color: #45464B ;
+}
+.theme--dark.v-application {
+  background-color: #2d2e30;
+}
+.v-application .mr-17 {
+  margin-right: 84px !important;
+}
+
+.v-application .mr-18 {
+  margin-right: 94px !important;
+}
+
+.v-application .mt-15 {
+  margin-top: 44px !important;
+}
+
+.v-application .mt-16 {
+  margin-top: 64px !important;
+}
+
+.v-application .mt-17 {
+  margin-top: 84px !important;
+}
+
+.v-application .mt-18 {
+  margin-top: 104px !important;
+}
+
+.v-application .mt-19 {
+  margin-top: 124px !important;
+}
+
+.v-application .mt-20 {
+  margin-top: 144px !important;
+}
+
+.v-application .mt-19 {
+  margin-top: 110px !important;
+}
+
+
+.v-application .mt-n15 {
+  margin-top: -44px !important;
+}
+
+.v-application .mt-n16 {
+  margin-top: -64px !important;
+}
+
+.v-application .mt-n17 {
+  margin-top: -92px !important;
+}
+
+.v-application .mt-n18 {
+  margin-top: -104px !important;
+}
+
+.v-application .mt-n19 {
+  margin-top: -124px !important;
+}
+
+.v-application .mt-n20 {
+  margin-top: -160px !important;
+}
+.v-application .my-16 {
+  margin-top: 64px !important;
+  margin-bottom: 64px !important;
+}
+
+.v-application .my-17 {
+  margin-top: 88px !important;
+  margin-bottom: 88px !important;
+}
+
+.v-application .my-18 {
+  margin-top: 94px !important;
+  margin-bottom: 94px !important;
+}
+.v-application .my-19 {
+  margin-top: 110px !important;
+  margin-bottom: 110px !important;
+}
+.v-application .my-20 {
+  margin-top: 160px !important;
+  margin-bottom: 160px !important;
+}
+
+.v-application .mx-17 {
+  margin-right: 80px !important;
+  margin-left: 80px !important;
+}
+
+.v-application .mx-18 {
+  margin-right: 94px !important;
+  margin-left: 94px !important;
+}
+
+.v-application .mx-19 {
+  margin-right: 110px !important;
+  margin-left: 110px !important;
+}
+.v-application .mx-20 {
+  margin-right: 220px !important;
+  margin-left: 220px !important;
+}
+
+
+.v-application .ml-17 {
+  margin-left: 80px !important;
+}
+
+.v-application .ml-18 {
+  margin-left: 94px !important;
+}
+
+.v-application .ml-19 {
+  margin-left: 110px !important;
+}
+.v-application .ml-20 {
+  margin-left: 220px !important;
+}
+
+
+.v-application .mr-17 {
+  margin-right: 80px !important;
+}
+
+.v-application .mr-18 {
+  margin-right: 94px !important;
+}
+
+.v-application .mr-19 {
+  margin-right: 110px !important;
+}
+.v-application .mr-20 {
+  margin-right: 220px !important;
+}
+
+.v-application .my-n17 {
+  margin-top: -80px !important;
+  margin-bottom: -80px !important;
+}
+
+.v-application .my-n18 {
+  margin-top: -94px !important;
+  margin-bottom: -94px !important;
+}
+
+.v-application .my-n19 {
+  margin-top: -160px !important;
+  margin-bottom: -160px !important;
+}
+
+.v-application .my-n20 {
+  margin-top: -250px !important;
+  margin-bottom: -250px !important;
+}
+
+
+.v-application .mt-17 {
+  margin-top: 80px !important;
+}
+
+.v-application .mt-18 {
+  margin-top: 94px !important;
+}
+
+.v-application .mt-19 {
+  margin-top: 160px !important;
+}
+
+.v-application .mt-20 {
+  margin-top: 250px !important;
+}
+
+// .hero-title {
+//   margin-top:350px!important
+// }
+
+.logo {
+    cursor: pointer;
+}
+
+.navlink {
+    margin: 0 1rem;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    top: 0;
+    font-family: Helvetica Neue;
+    text-decoration: none;
+    color:  #a6a6a7cb!important;
+}
+.navlink.small {
+  display: inline-block;
+  cursor: pointer;
+  font-size: medium;
+  font-weight: 600;
+  font-family: Helvetica Neue;
+}
+
+.navlink.active,
+.navlink:hover {
+    color: #CD9E6F!important;
+}
+
+.main-app-title {
+  font-size: 19px;
+}
+.main-title {
+font-family: Helvetica;
+font-size: 29px;
+font-style: normal;
+font-weight: 700;
+line-height: 10px;
+text-align: left;
+;
+}
+
+p.main-desc{
+  font-family: Helvetica;
+font-size: 29px;
+font-style: normal;
+font-weight: 300;
+line-height: 44px;
+letter-spacing: -0.2199999988079071px;
+text-align: left;
+color: #CD9E6F!important;
+}
+
+p.main-desc-mobile{
+font-family: Helvetica;
+font-size: 25px;
+font-style: normal;
+font-weight: 300;
+line-height: 38px;
+letter-spacing: -0.2199999988079071px;
+text-align: left;
+color: #CD9E6F!important;
+}
+.quotes {
+  height: 64px;
+  width: 632px;
+  left: 0px;
+  top: 0px;  
+}
+
+.theme--dark.v-card {
+  background-color: #45464B;
+  color: #fff;
+}
