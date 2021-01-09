@@ -20,13 +20,13 @@
                 </div>
                 <div class="ml-4 mt-16">
                   <v-card color="#662583">
-                  <img width="320" src="../assets/images/Paint Depo Limited.svg" alt="">
+                  <img width="320" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_fqYsxGCDHZmz-.svg" alt="">
                   <p class="portfolio-text pb-5">Paint Depo Limited</p>
                   </v-card>
                   </div>
                 <div class="ml-4">
                   <v-card color="#FD7D12">
-                  <img width="320" src="../assets/images/LociFood Ecommerce.svg" alt="">
+                  <img width="320" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_NTGiXf1ZXsZf.svg" alt="">
                   <p class="portfolio-text pb-5">LociFood Ecommerce</p>
                   </v-card>
                 </div>
@@ -40,13 +40,13 @@
                 </div>
                 <div class="ml-4 mt-n17">
                   <v-card color="#0A093D">
-                    <img width="320" src="../assets/images/Joshua Kimbareeba.svg" alt="my experience in the industry">
+                    <img width="320" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Joshua_Kimbareeba_I-RVtGbkS-.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
                   </v-card>
                 </div>
                 <div class="ml-4 mt-n20">
                   <v-card color="#DC121F">
-                    <img width="320" src="../assets/images/Health App.svg" alt="my experience in the industry">
+                    <img width="320" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Health App</p>
                   </v-card>
                 </div>
@@ -111,13 +111,13 @@
                 </div>
                 <div class="ml-4 mt-16">
                   <v-card color="#662583">
-                  <img width="270" src="../assets/images/Paint Depo Limited.svg" alt="">
+                  <img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_fqYsxGCDHZmz-.svg" alt="">
                   <p class="portfolio-text pb-5">Paint Depo Limited</p>
                   </v-card>
                   </div>
                 <div class="ml-4">
                   <v-card color="#FD7D12">
-                  <img width="270" src="../assets/images/LociFood Ecommerce.svg" alt="">
+                  <img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_NTGiXf1ZXsZf.svg" alt="">
                   <p class="portfolio-text pb-5">LociFood Ecommerce</p>
                   </v-card>
                 </div>
@@ -131,13 +131,13 @@
                 </div>
                 <div class="ml-4 mt-n17">
                   <v-card color="#0A093D">
-                    <img width="270" src="../assets/images/Joshua Kimbareeba.svg" alt="my experience in the industry">
+                    <img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Joshua_Kimbareeba_I-RVtGbkS-.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
                   </v-card>
                 </div>
                 <div class="ml-4 mt-n20">
                   <v-card color="#DC121F">
-                    <img width="270" src="../assets/images/Health App.svg" alt="my experience in the industry">
+                    <img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Health App</p>
                   </v-card>
                 </div>
@@ -202,13 +202,13 @@
                 </div>
                 <div class="ml-4">
                   <v-card color="#662583">
-                  <img width="450" src="../assets/images/Paint Depo Limited.svg" alt="">
+                  <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_fqYsxGCDHZmz-.svg" alt="">
                   <p class="portfolio-text pb-5">Paint Depo Limited</p>
                   </v-card>
                   </div>
                 <div class="ml-4">
                   <v-card color="#FD7D12">
-                  <img width="450" src="../assets/images/LociFood Ecommerce.svg" alt="">
+                  <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_NTGiXf1ZXsZf.svg" alt="">
                   <p class="portfolio-text pb-5">LociFood Ecommerce</p>
                   </v-card>
                 </div>
@@ -222,13 +222,13 @@
                 </div>
                 <div class="ml-4">
                   <v-card color="#0A093D">
-                    <img width="450" src="../assets/images/Joshua Kimbareeba.svg" alt="my experience in the industry">
+                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Joshua_Kimbareeba_I-RVtGbkS-.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
                   </v-card>
                 </div>
                 <div class="ml-4">
                   <v-card color="#DC121F">
-                    <img width="450" src="../assets/images/Health App.svg" alt="my experience in the industry">
+                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Health App</p>
                   </v-card>
                 </div>
@@ -293,13 +293,13 @@
                 </div>
                 <div>
                   <v-card color="#662583">
-                  <img width="350" src="../assets/images/Paint Depo Limited.svg" alt="">
+                  <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_fqYsxGCDHZmz-.svg" alt="">
                   <p class="portfolio-text pb-5">Paint Depo Limited</p>
                   </v-card>
                   </div>
                 <div>
                   <v-card color="#FD7D12">
-                  <img width="350" src="../assets/images/LociFood Ecommerce.svg" alt="">
+                  <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_NTGiXf1ZXsZf.svg" alt="">
                   <p class="portfolio-text pb-5">LociFood Ecommerce</p>
                   </v-card>
                 </div>
@@ -313,13 +313,13 @@
                 </div>
                 <div>
                   <v-card color="#0A093D">
-                    <img width="350" src="../assets/images/Joshua Kimbareeba.svg" alt="my experience in the industry">
+                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Joshua_Kimbareeba_I-RVtGbkS-.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
                   </v-card>
                 </div>
                 <div>
                   <v-card color="#DC121F">
-                    <img width="350" src="../assets/images/Health App.svg" alt="my experience in the industry">
+                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg" alt="my experience in the industry">
                     <p class="portfolio-text pb-5">Health App</p>
                   </v-card>
                 </div>

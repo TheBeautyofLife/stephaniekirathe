@@ -11,7 +11,7 @@
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
-          <img width="1200px" src="../assets/images/main.jpg" alt="">
+          <img width="1200px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/main_Ix0-s7U1l.jpg" alt="">
           <center class="mt-10">
             <v-divider width="1200px"></v-divider>
             <div class="mt-17 quotes">
@@ -261,7 +261,7 @@
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:950px" class="my-n8">
-          <img width="900px" src="../assets/images/main.jpg" alt="">
+          <img width="900px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/main_Ix0-s7U1l.jpg" alt="">
           <center class="mt-10">
             <v-divider width="950px"></v-divider>
             <div class="mt-17 quotes">
