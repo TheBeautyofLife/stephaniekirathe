@@ -46,14 +46,14 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Email *</label>
-                        <v-text-field hide-details="" v-model="form.email" type="email" name="email" dense single-line
+                        <v-text-field hide-details v-model="form.email" type="email" name="email" dense single-line
                           outlined color="#CD9E6F">
                         </v-text-field>
                       </div>
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea auto-grow v-model="form.description" type="email" name="email" dense single-line
+                        <v-textarea auto-grow v-model="form.description" type="description" name="description" dense single-line
                           outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
