@@ -1,14 +1,11 @@
 // Color
-@import "./components/colour.scss";
-@import "./components/main.scss";
+@import "./colour.scss";
+@import "./main.scss";
 
 
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Lucida+Grande&display=swap');
 
-body {
-    // overflow-x: hidden;
-}
 
 body,
 .display-1,
@@ -19,8 +16,9 @@ body,
 }
 
 .display-4,
-.title {
-    // color: $loci-gray !important;
+.title
+.body-3 {
+    color: $loci-dark-gray !important;
     font-family: Helvetica Neue;
 }
 .display-5 {
@@ -83,7 +81,7 @@ body,
 }
 
 .v-application .mt-n16 {
-  margin-top: -64px !important;
+  margin-top: -74px !important;
 }
 
 .v-application .mt-n17 {
@@ -100,6 +98,12 @@ body,
 
 .v-application .mt-n20 {
   margin-top: -160px !important;
+}
+.v-application .mt-n21 {
+  margin-top: -184px !important;
+}
+.v-application .mt-n22 {
+  margin-top: -220px !important;
 }
 .v-application .my-16 {
   margin-top: 64px !important;
@@ -143,6 +147,13 @@ body,
   margin-left: 220px !important;
 }
 
+.v-application .ml-15 {
+  margin-left: 48px !important;
+}
+
+.v-application .ml-16 {
+  margin-left: 60px !important;
+}
 
 .v-application .ml-17 {
   margin-left: 80px !important;
@@ -287,4 +298,16 @@ color: #CD9E6F!important;
 .theme--dark.v-card {
   background-color: #45464B;
   color: #fff;
+}
+
+.v-text-feild .v-input__slot {
+  border-radius: 10px!important;
+}
+
+.theme--light.v-input, .theme--light.v-input input, .theme--light.v-input textarea {
+  color: #CD9E6F!important;
+}
+
+.v-text-field--outlined, .v-text-field--solo {
+  border-radius: 10px!important;
 }

@@ -62,19 +62,19 @@
                   <v-card dark>
                     <img width="310" src="../assets/images/team-builder.svg" alt="my experience in the industry">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">I'm a Team Builder</p>
+                  <p class="mt-5 title font-weight-medium">I'm a Team Builder</p>
                 </div>
                 <div class="ml-5 mr-5">
                   <v-card dark>
                     <img width="310" src="../assets/images/team-player.svg" alt="">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">I'm a Team Player</p>
+                  <p class="mt-5 title font-weight-medium">I'm a Team Player</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
                     <img width="310" src="../assets/images/team-facilitator.svg" alt="">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">I'm a Team Facilitator</p>
+                  <p class="mt-5 title font-weight-medium">I'm a Team Facilitator</p>
                 </div>
               </v-layout>
             </div>
@@ -87,25 +87,25 @@
                   <v-card dark>
                     <img width="250" src="../assets/images/Collaboration.svg" alt="my experience in the industry">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">Collaboration</p>
+                  <p class="mt-5 title font-weight-medium">Collaboration</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
                     <img width="250" src="../assets/images/Workshops.svg" alt="">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">Workshops</p>
+                  <p class="mt-5 title font-weight-medium">Workshops</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
                     <img width="250" src="../assets/images/Design Sprints.svg" alt="">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">Design Sprints</p>
+                  <p class="mt-5 title font-weight-medium">Design Sprints</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
                     <img width="250" src="../assets/images/Measuring Success.svg" alt="">
                   </v-card>
-                  <p class="mt-5 font-weight-medium">Measuring Success</p>
+                  <p class="mt-5 title font-weight-medium">Measuring Success</p>
                 </div>
               </v-layout>
             </div>
@@ -128,20 +128,38 @@
               </v-layout>
               <v-layout row wrap justify-space-between>
                 <div class="ml-4 mr-5">
-                  <img width="94.21" src="../assets/icons/Figma.svg" alt="my experience in the industry">
-                  <p class="mt-5 font-weight-medium">Figma</p>
+                  <img width="250" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Double dimond</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                  </div>
+                  </div>
+                <div class="ml-5 mr-5">
+                  <img width="250" src="../assets/images/UI Development.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">UI Development</p>
+                    <p class="body-3"> I study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    </p>
+                  </div>
                 </div>
                 <div class="ml-5 mr-5">
-                  <img width="144.91" src="../assets/icons/Ai.svg" alt="">
-                  <p class="mt-5 font-weight-medium"> Adobe Illustrator CC</p>
-                </div>
-                <div class="ml-5 mr-5">
-                  <img width="144.94" src="../assets/icons/XD.svg" alt="">
-                  <p class="mt-5 font-weight-medium"> Adobe XD</p>
+                  <img width="250" src="../assets/images/Value Ladder.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Value Ladder</p>
+                    <p class="body-3">
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                    </p>
+                  </div>
                 </div>
                 <div class="ml-4">
-                  <img width="102.93" src="../assets/icons/Principal.svg" alt="">
-                  <p class="mt-5 font-weight-medium">Principle App</p>
+                  <img width="250" src="../assets/images/Growth Funnels.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Growth funnel</p>
+                    <p class="body-3">
+                     As a Designer, I rely on reliable information which tells them where to focus efforts in digital products.
+One of the most reliable models for understanding customer behaviour is what’s known as the growth funnel.
+                    </p>
+                  </div>
                 </div>
               </v-layout>
             </div>
@@ -154,19 +172,19 @@
               <v-layout row wrap justify-space-between>
                 <div class="ml-4 mr-5">
                   <img width="94.21" src="../assets/icons/Figma.svg" alt="my experience in the industry">
-                  <p class="mt-5 font-weight-medium">Figma</p>
+                  <p class="mt-5 title font-weight-medium">Figma</p>
                 </div>
                 <div class="ml-5 mr-5">
                   <img width="144.91" src="../assets/icons/Ai.svg" alt="">
-                  <p class="mt-5 font-weight-medium"> Adobe Illustrator CC</p>
+                  <p class="mt-5 title font-weight-medium"> Adobe Illustrator CC</p>
                 </div>
                 <div class="ml-5 mr-5">
                   <img width="144.94" src="../assets/icons/XD.svg" alt="">
-                  <p class="mt-5 font-weight-medium"> Adobe XD</p>
+                  <p class="mt-5 title font-weight-medium"> Adobe XD</p>
                 </div>
                 <div class="ml-4">
                   <img width="102.93" src="../assets/icons/Principal.svg" alt="">
-                  <p class="mt-5 font-weight-medium">Principle App</p>
+                  <p class="mt-5 title font-weight-medium">Principle App</p>
                 </div>
               </v-layout>
             </div>
@@ -177,19 +195,19 @@
               <v-layout row wrap justify-space-between>
                 <div class="ml-4 mr-5">
                   <img width="144.91" src="../assets/icons/cib_html5.svg" alt="html5">
-                  <p class="mt-5 font-weight-medium">HTML5</p>
+                  <p class="mt-5 title font-weight-medium">HTML5</p>
                 </div>
                 <div class="ml-5 mr-5">
                   <img width="144.91" src="../assets/icons/cib_css3-shiled.svg" alt="">
-                  <p class="mt-5 font-weight-medium">CSS3</p>
+                  <p class="mt-5 title font-weight-medium">CSS3</p>
                 </div>
                 <div class="ml-5 mr-5">
                   <img width="144.94" src="../assets/icons/cib_javascript.svg" alt="">
-                  <p class="mt-5 font-weight-medium"> Javascript</p>
+                  <p class="mt-5 title font-weight-medium"> Javascript</p>
                 </div>
                 <div class="ml-4">
                   <img width="144.91" src="../assets/icons/cib_vue-js.svg" alt="">
-                  <p class="mt-5 font-weight-medium">Vue.js</p>
+                  <p class="mt-5 title font-weight-medium">Vue.js</p>
                 </div>
 
               </v-layout>
@@ -243,6 +261,11 @@
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
+                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  class="ma-3">
+                  <img width="36" src="../assets/icons/socials/Behance.svg"
+                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -338,12 +361,6 @@
                     <img width="230" src="../assets/images/Collaboration.svg" alt="my experience in the industry">
                   </v-card>
                   <p class="mt-5 font-weight-medium">Collaboration</p>
-                </div>
-                <div class="ml-4">
-                  <v-card dark>
-                    <img width="230" src="../assets/images/Design Thinking.svg" alt="">
-                  </v-card>
-                  <p class="mt-4 font-weight-medium">Design Thinking</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
@@ -473,6 +490,11 @@
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
+                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  class="ma-3">
+                  <img width="36" src="../assets/icons/socials/Behance.svg"
+                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -568,12 +590,6 @@
                     <img width="230" src="../assets/images/Collaboration.svg" alt="my experience in the industry">
                   </v-card>
                   <p class="mt-5 font-weight-medium">Collaboration</p>
-                </div>
-                <div class="ml-4">
-                  <v-card dark>
-                    <img width="230" src="../assets/images/Design Thinking.svg" alt="">
-                  </v-card>
-                  <p class="mt-4 font-weight-medium">Design Thinking</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
@@ -703,6 +719,11 @@
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
+                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  class="ma-3">
+                  <img width="36" src="../assets/icons/socials/Behance.svg"
+                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -798,12 +819,6 @@
                     <img width="250" src="../assets/images/Collaboration.svg" alt="my experience in the industry">
                   </v-card>
                   <p class="mt-5 font-weight-medium">Collaboration</p>
-                </div>
-                <div class="ml-4">
-                  <v-card dark>
-                    <img width="250" src="../assets/images/Design Thinking.svg" alt="">
-                  </v-card>
-                  <p class="mt-4 font-weight-medium">Design Thinking</p>
                 </div>
                 <div class="ml-4">
                   <v-card dark>
@@ -937,6 +952,11 @@
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
+                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  class="ma-3">
+                  <img width="36" src="../assets/icons/socials/Behance.svg"
+                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -954,30 +974,30 @@ export default {
   },
   head: {
     title: {
-      inner: 'Welcome to Nature\'s Pasture'
+      inner: 'Welcome to Stephanie\'s Kirathe personal website'
     },
     meta: [{
       name: 'application-name',
-      content: 'Welcome to Nature\'s Pasture'
+      content: 'Welcome to Stephanie\'s Kirathe personal website'
     },
     {
       name: 'description',
-      content: 'Welcome to Nature\'s Pasture',
+      content: 'Welcome to Stephanie\'s Kirathe personal website',
       id: 'desc'
     }, // id to replace intead of create element
     // ...
     // Google+ / Schema.org
     {
       itemprop: 'name',
-      content: 'Welcome to Nature\'s Pasture'
+      content: 'Welcome to Stephanie\'s Kirathe personal website'
     },
     {
       itemprop: 'description',
-      content: 'Welcome to Nature\'s Pasture'
+      content: 'Welcome to Stephanie\'s Kirathe personal website'
     },
     {
       property: 'og:title',
-      content: 'Welcome to Nature\'s Pasture'
+      content: 'Welcome to Stephanie\'s Kirathe personal website'
     }
     ]
   }

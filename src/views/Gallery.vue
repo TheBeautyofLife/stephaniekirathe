@@ -68,7 +68,7 @@
             </center>
               <!--  -->
        </v-container>
-       
+
     </v-flex>
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>

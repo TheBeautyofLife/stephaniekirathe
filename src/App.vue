@@ -14,3 +14,6 @@ export default {
   }
 }
 </script>
+<style lang="sass">
+@import '@/sass/_variables.scss'
+</style>

@@ -48,7 +48,10 @@
         <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
             <v-app-bar flat class="pl-4 pr-4 mt-6 transparent">
                 <div to="/" class="mx-9">
-                    <img width="50" class="mt-8" :src="require('@/assets/images/logo.svg')">
+                <v-layout row align-center>
+                     <img width="50" class="mt-8" :src="require('@/assets/images/logo.svg')">
+                    <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div>
+                </v-layout>
                 </div>
                 <v-layout row justify-end>
                        <router-link  class="navlink" active-class="active" exact to="/">
