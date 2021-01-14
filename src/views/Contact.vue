@@ -33,7 +33,7 @@
                     <p class="caption">Fill out this form and our team will contact you promptly to discuss next steps.
                     </p>
                     <form name="emaillist" method="POST" data-netlify="true" data-netlify-honeypot="bot-field"
-                      @submit.prevent="handleSubmit" class="mt-n8">
+                      @submit.prevent="handleSubmit" class="mt-n8" netlify>
                       <p class="hidden">
                         <label><input name="bot-field" /></label>
                       </p>
@@ -117,7 +117,7 @@
                     <p class="caption">Fill out this form and our team will contact you promptly to discuss next steps.
                     </p>
                     <form name="emaillist" method="POST" data-netlify="true" data-netlify-honeypot="bot-field"
-                      @submit.prevent="handleSubmit" class="mt-n8">
+                      @submit.prevent="handleSubmit" class="mt-n8" netlify>
                       <p class="hidden">
                         <label><input name="bot-field" /></label>
                       </p>
