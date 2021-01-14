@@ -392,8 +392,14 @@ export default {
         axiosConfig
       ).then(() => {
         this.snackbar = true
+        this.clearform()
         console.log('Succesfully Sent')
       }).catch(e => console.error(e))
+    },
+    clearform () {
+      this.form.fullname = ''
+      this.form.email = ''
+      this.form.description = ''
     }
     // handleSubmit2 () {
     //   // console.log(this.form)
@@ -488,9 +494,9 @@ export default {
     width: 464px !important;
   }
 
-  /* a {
+  a {
     text-decoration: none;
-  } */
+  }
 
   .email:hover {
     color: #AC7339 !important;
