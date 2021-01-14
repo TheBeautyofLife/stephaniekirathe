@@ -138,7 +138,7 @@
                   <img width="250" src="../assets/images/UI Development.svg" alt="">
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
-                    <p class="body-3"> I study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
                     </p>
                   </div>
                 </div>
@@ -325,6 +325,47 @@ One of the most reliable models for understanding customer behaviour is what’s
               <p class="body-1 font-weight-regular">
                 — Donald A. Norman best description of product development
               </p>
+            </div>
+             <div id="career" class="mt-19">
+              <v-layout column justify-center align-center mb-4>
+                <div class="display-3 mb-4">Continuously Learning</div>
+              </v-layout>
+              <v-layout row wrap justify-center ml-5 mt-n8 >
+                <div class="ml-4 mr-5">
+                  <img width="290" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Double dimond</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                  </div>
+                  </div>
+                <div class="ml-5 mr-5">
+                  <img width="290" src="../assets/images/UI Development.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">UI Development</p>
+                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-5 mr-5">
+                  <img width="290" src="../assets/images/Value Ladder.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Value Ladder</p>
+                    <p class="body-3">
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-4">
+                  <img width="290" src="../assets/images/Growth Funnels.svg" alt="">
+                  <div style="width:240px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Growth funnel</p>
+                    <p class="body-3">
+                     As a Designer, I rely on reliable information which tells them where to focus efforts in digital products.
+One of the most reliable models for understanding customer behaviour is what’s known as the growth funnel.
+                    </p>
+                  </div>
+                </div>
+              </v-layout>
             </div>
             <div id="career" class="mt-19">
               <v-layout column justify-center align-center mb-8>
@@ -555,6 +596,47 @@ One of the most reliable models for understanding customer behaviour is what’s
                 — Donald A. Norman best description of product development
               </p>
             </div>
+             <div id="career" class="mt-19">
+              <v-layout column justify-center align-center mb-4>
+                <div class="display-3 mb-4">Continuously Learning</div>
+              </v-layout>
+              <v-layout row wrap justify-center ml-5 mt-n8 >
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Double dimond</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                  </div>
+                  </div>
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/UI Development.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">UI Development</p>
+                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/Value Ladder.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Value Ladder</p>
+                    <p class="body-3">
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-6">
+                  <img width="270" src="../assets/images/Growth Funnels.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Growth funnel</p>
+                    <p class="body-3">
+                     As a Designer, I rely on reliable information which tells them where to focus efforts in digital products.
+One of the most reliable models for understanding customer behaviour is what’s known as the growth funnel.
+                    </p>
+                  </div>
+                </div>
+              </v-layout>
+            </div>
             <div id="career" class="mt-17">
               <v-layout column justify-center align-center mb-8>
                 <div class="display-3 mb-4">Collaboration</div>
@@ -562,19 +644,19 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout row justify-center align-center>
                 <div class="mt-4 mr-5">
                   <v-card dark>
-                    <img width="300" src="../assets/images/team-builder.svg" alt="my experience in the industry">
+                    <img width="320" src="../assets/images/team-builder.svg" alt="my experience in the industry">
                   </v-card>
                   <p class="mt-5 font-weight-medium">I'm a Team Builder</p>
                 </div>
-                <div class="mt-4 ">
+                <div class="mt-4">
                   <v-card dark>
-                    <img width="300" src="../assets/images/team-player.svg" alt="">
+                    <img width="320" src="../assets/images/team-player.svg" alt="">
                   </v-card>
                   <p class="mt-5 font-weight-medium">I'm a Team Player</p>
                 </div>
                 <div class="mt-4">
                   <v-card dark>
-                    <img width="300" src="../assets/images/team-facilitator.svg" alt="">
+                    <img width="320" src="../assets/images/team-facilitator.svg" alt="">
                   </v-card>
                   <p class="mt-5 font-weight-medium">I'm a Team Facilitator</p>
                 </div>
@@ -783,6 +865,47 @@ One of the most reliable models for understanding customer behaviour is what’s
               <p class="body-1 font-weight-regular">
                 — Donald A. Norman best description of product development
               </p>
+            </div>
+            <div id="career" class="mt-19">
+              <v-layout column justify-center align-center mb-4>
+                <div class="display-3 mb-4">Continuously Learning</div>
+              </v-layout>
+              <v-layout row wrap justify-center align-center mt-n8 >
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Double dimond</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                  </div>
+                  </div>
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/UI Development.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">UI Development</p>
+                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-6 mr-6">
+                  <img width="270" src="../assets/images/Value Ladder.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Value Ladder</p>
+                    <p class="body-3">
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                    </p>
+                  </div>
+                </div>
+                <div class="ml-6">
+                  <img width="270" src="../assets/images/Growth Funnels.svg" alt="">
+                  <div style="width:250px!important" class="text-left">
+                    <p class="mt-n1 title font-weight-medium">Growth funnel</p>
+                    <p class="body-3">
+                     As a Designer, I rely on reliable information which tells them where to focus efforts in digital products.
+One of the most reliable models for understanding customer behaviour is what’s known as the growth funnel.
+                    </p>
+                  </div>
+                </div>
+              </v-layout>
             </div>
             <div id="career" class="mt-17">
               <v-layout column justify-center align-center mb-8>
