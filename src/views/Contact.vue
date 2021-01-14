@@ -137,7 +137,7 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea auto-grow v-model="form.description" type="email" name="email" dense single-line
+                        <v-textarea auto-grow v-model="form.description" type="description" name="description" dense single-line
                           outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
@@ -221,7 +221,7 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea hide-details auto-grow v-model="form.description" type="email" name="email" dense
+                        <v-textarea hide-details auto-grow v-model="form.description" type="description" name="description" dense
                           single-line outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
@@ -309,7 +309,7 @@
                   <v-flex xs12 class="pr-2 pl-2">
                     <div class="mb-4">
                       <label for="email" class="body-3 font-weight-medium">Project description</label>
-                      <v-textarea hide-details auto-grow v-model="form.description" type="email" name="email" dense
+                      <v-textarea hide-details auto-grow v-model="form.description" type="description" name="description" dense
                         single-line outlined color="#CD9E6F">
                       </v-textarea>
                     </div>
