@@ -9,7 +9,7 @@
           <center class="mt-10">
             <div id="career" class="mt-18">
               <v-layout row justify-start mb-8>
-                <v-sheet class="text-left">
+                <v-sheet class="transparent text-left">
                   <h1 class="display-3 mb-4">Hi!</h1>
                   <p class="decription-section">
                     I’m Stephanie Kirathe, a product designer
@@ -20,15 +20,15 @@
                   </p>
                   <div class="mt-20">
                     <span>Call</span>
-                    <h1 class="display-1 grey--text text--darken-3">+254 729245657</h1>
+                    <h1 class="display-1">+254 729245657</h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
                     <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                        class="display-1 grey--text text--darken-3 email">stephaniekirathe@alero.co.ke</a></h1>
+                        class="display-1  email">stephaniekirathe@alero.co.ke</a></h1>
                   </div>
                 </v-sheet>
-                <v-flex xs12 md4 class="ml-19 mt-17">
+                <v-flex xs12 md4 class="ml-20 mt-17">
                   <v-layout column justify-start text-left>
                     <p class="caption">Fill out this form and our team will contact you promptly to discuss next steps.
                     </p>
@@ -93,7 +93,7 @@
           <center class="mt-10">
             <div id="career" class="mt-18">
               <v-layout row justify-start mb-8>
-                <v-sheet class="text-left">
+                <v-sheet class="transparent text-left">
                   <h1 class="display-3 mb-4">Hi!</h1>
                   <p class="decription-section">
                     I’m Stephanie Kirathe, a product designer
@@ -104,12 +104,12 @@
                   </p>
                   <div class="mt-20">
                     <span>Call</span>
-                    <h1 class="display-1 grey--text text--darken-3">+254 729245657</h1>
+                    <h1 class="display-1">+254 729245657</h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
                     <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                        class="display-1 grey--text text--darken-3 email">stephaniekirathe@alero.co.ke</a></h1>
+                        class="display-1 email">stephaniekirathe@alero.co.ke</a></h1>
                   </div>
                 </v-sheet>
                 <v-flex xs12 md4 class="ml-19 mt-17">
@@ -177,7 +177,7 @@
           <center class="mt-10">
             <div id="career" class="mt-18">
               <v-layout column justify-center mx-12>
-                <v-sheet class="text-left ml-12">
+                <v-sheet class="transparent text-left ml-12">
                   <h1 class="display-3 mb-4">Hi!</h1>
                   <p class="decription-section">
                     I’m Stephanie Kirathe, a product designer
@@ -188,15 +188,15 @@
                   </p>
                   <div class="mt-10">
                     <span>Call</span>
-                    <h1 class="title grey--text text--darken-3">+254 729245657</h1>
+                    <h1 class="title ">+254 729245657</h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
-                    <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                        class="title grey--text text--darken-3 email">stephaniekirathe@alero.co.ke</a></h1>
+                    <h1><a target="_blank" htransparentref="mailto:stephaniekirathe@alero.co.ke"
+                        class="title  email">stephaniekirathe@alero.co.ke</a></h1>
                   </div>
                 </v-sheet>
-                <v-sheet width="450" class="mt-17 ml-12">
+                <v-sheet width="450" class="transparent mt-17 ml-12">
                   <v-layout column justify-center text-left>
                     <p class="caption">Fill out this form and our team will contact you promptly to discuss next steps.
                     </p>
@@ -269,12 +269,12 @@
               </p>
               <div class="mt-10">
                 <span>Call</span>
-                <h1 class="title grey--text text--darken-3">+254 729245657</h1>
+                <h1 class="title ">+254 729245657</h1>
               </div>
               <div class="mt-5">
                 <span>Email</span>
                 <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                    class="title grey--text text--darken-3 email"
+                    class="title  email"
                     style="text-decoration: none;">stephaniekirathe@alero.co.ke</a></h1>
               </div>
             </div>
@@ -458,30 +458,30 @@ export default {
   },
   head: {
     title: {
-      inner: 'Welcome to Stephanie\'s Kirathe personal website.This is the contact page, feel free to reach out to me anytime'
+      inner: 'My Contact\'s'
     },
     meta: [{
       name: 'application-name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website.This is the contact page, feel free to reach out to me anytime'
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the contact page, feel free to reach out to me anytime'
     },
     {
       name: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website. This is the contact page, feel free to reach out to me anytime',
+      content: 'Welcome to Stephanie\'s Kirathe official website. This is the contact page, feel free to reach out to me anytime',
       id: 'desc'
     }, // id to replace intead of create element
     // ...
     // Google+ / Schema.org
     {
       itemprop: 'name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website.This is the contact page, feel free to reach out to me anytime'
+      content: 'contact page'
     },
     {
       itemprop: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website.This is the contact page, feel free to reach out to me anytime'
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the contact page, feel free to reach out to me anytime'
     },
     {
       property: 'og:title',
-      content: 'Welcome to Stephanie\'s Kirathe personal website.This is the contact page, feel free to reach out to me anytime'
+      content: 'Stephanie\'s Kirathe official website.This is the contact page'
     }
     ]
   }

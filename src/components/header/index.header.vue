@@ -3,12 +3,12 @@
     <!--------------------------   Larger screen >= 1440px ------------------------------>
     <v-flex xs12 hidden-md-and-down hidden-sm-and-down>
       <v-app-bar flat class="pr-5 mt-10 transparent">
-        <div to="/">
+        <router-link to="/" style="text-decoration:none;">
           <v-layout row align-center>
-            <img width="50" class="mt-8 ml-12" :src="require('@/assets/images/logo.svg')">
+            <img width="50" class="mt-8 ml-12" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
             <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div>
           </v-layout>
-        </div>
+        </router-link>
         <v-layout row justify-end mr-10>
           <router-link class="navlink" active-class="active" exact to="/">
             About
@@ -48,12 +48,12 @@
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
       <v-app-bar flat class="pl-4 pr-4 mt-6 transparent">
-        <div to="/" class="mx-9">
+         <router-link to="/" style="text-decoration:none;" class="mx-9">
           <v-layout row align-center>
-            <img width="50" class="mt-8" :src="require('@/assets/images/logo.svg')">
+            <img width="50" class="mt-8" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
             <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div>
           </v-layout>
-        </div>
+         </router-link>
         <v-layout row justify-end>
           <router-link class="navlink" active-class="active" exact to="/">
             About
@@ -95,7 +95,7 @@
       <v-app-bar flat class="pl-4 pr-4 mt-8 transparent">
         <v-layout row ml-8>
           <router-link to="/" class="mt-4" style="text-decoration:none;">
-            <img width="50" :src="require('@/assets/images/logo.svg')">
+            <img width="50" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
           </router-link>
         </v-layout>
         <v-menu transition="scale-transition" close-on-click close-on-content-click nudge-width="300"
@@ -159,7 +159,7 @@
                   </div>
                 </v-tooltip>
                 <div class="mt-2 ml-3">
-                  <span v-if="!$vuetify.theme.dark">Dark Mode Off</span>
+                  <span class="grey--text" v-if="!$vuetify.theme.dark">Dark Mode Off</span>
                   <span v-else>Dark Mode On</span>
                 </div>
               </v-row>
@@ -175,7 +175,7 @@
 
         <v-layout row justify-center align-center mt-13>
           <router-link to="/" style="text-decoration:none;">
-            <img width="50" :src="require('@/assets/images/logo.svg')">
+            <img width="50" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
           </router-link>
         </v-layout>
         <v-menu close-on-click close-on-content-click nudge-width="300" style="border-radius:0px !important">
@@ -216,13 +216,11 @@
                 </a>
               </v-row>
             </v-card>
-          </div>
-        </v-menu>
-        <v-card flat class="pa-3" style="border-radius:0px!important">
+              <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="ml-5">
                 <v-tooltip v-if="!$vuetify.theme.dark" bottom>
                   <template v-slot:activator="{ on }">
-                    <v-btn v-on="on" small fab @click="darkMode">
+                    <v-btn text v-on="on" small fab @click="darkMode">
                       <v-icon>mdi-moon-waxing-crescent</v-icon>
                     </v-btn>
                   </template>
@@ -240,11 +238,13 @@
                   </div>
                 </v-tooltip>
                 <div class="mt-2 ml-3">
-                  <span v-if="!$vuetify.theme.dark">Dark Mode Off</span>
+                  <span class="grey--text" v-if="!$vuetify.theme.dark">Dark Mode Off</span>
                   <span v-else>Dark Mode On</span>
                 </div>
               </v-row>
-            </v-card>
+            </v-card >
+          </div>
+        </v-menu>
       </v-app-bar>
       <!--  -->
     </v-flex>

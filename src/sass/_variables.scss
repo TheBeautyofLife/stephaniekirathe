@@ -7,8 +7,7 @@
 @import url('https://fonts.googleapis.com/css?family=Lucida+Grande&display=swap');
 
 
-body,
-.display-1,
+
 .main-app-title,
 .body-1 {
     color: $loci-gray !important;
@@ -28,8 +27,11 @@ body,
 }
 
 .title,
+.display-1,
+a.display-1,
 .display-2,
 .display-3 {
+  color: #747373!important;
   font-family: Helvetica Neue;
 }
 

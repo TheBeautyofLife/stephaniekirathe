@@ -157,8 +157,8 @@
                 </div>
               </v-layout>
             </div>
-            <v-layout column justify-center align-center mt-19>
-              <div class="social-text">Follow, Like & Subscribe </div>
+            <v-layout column justify-center align-center mt-19 >
+              <div class="social-text font-weight-bold">Follow, Like & Subscribe </div>
               <v-layout row wrap mt-3>
                 <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
@@ -345,7 +345,7 @@
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
-              <div class="social-text">Follow, Like & Subscribe </div>
+              <div class="social-text font-weight-bold">Follow, Like & Subscribe </div>
               <v-layout row wrap mt-3>
                 <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
@@ -376,7 +376,7 @@
     </v-flex>
     <!-------------------------- Tablet screens <= 768px  ------------------------------->
     <v-flex xs12 hidden-xs-only hidden-md-only hidden-xl-only hidden-lg-only>
-      <v-layout column wrap mb-9>
+      <v-layout column wrap mb-10>
         <main-header></main-header>
         <!--  -->
         <v-container class="my-5">
@@ -463,7 +463,7 @@
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
-              <div class="social-text">Follow, Like & Subscribe </div>
+              <div class="social-text font-weight-bold">Follow, Like & Subscribe </div>
               <v-layout row wrap mt-3>
                 <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
@@ -575,7 +575,7 @@
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
-              <div class="social-text">Follow, Like & Subscribe </div>
+              <div class="social-text font-weight-bold">Follow, Like & Subscribe </div>
               <v-layout row wrap mt-3>
                 <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
@@ -614,30 +614,30 @@ export default {
   },
   head: {
     title: {
-      inner: 'Welcome to Stephanie\'s Kirathe personal website'
+      inner: 'My Work'
     },
     meta: [{
       name: 'application-name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
     },
     {
       name: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website',
+      content: 'Welcome to Stephanie\'s Kirathe official website. This is the portfolio page, feel free to reach out to me anytime',
       id: 'desc'
     }, // id to replace intead of create element
     // ...
     // Google+ / Schema.org
     {
       itemprop: 'name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'portfolio page'
     },
     {
       itemprop: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
     },
     {
       property: 'og:title',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'Stephanie\'s Kirathe official website.This is the portfolio page'
     }
     ]
   }

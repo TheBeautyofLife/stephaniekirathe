@@ -86,35 +86,6 @@ import Header from '@/components/header/index.header'
 export default {
   components: {
     'main-header': Header
-  },
-  head: {
-    title: {
-      inner: 'Welcome to Nature\'s Pasture'
-    },
-    meta: [{
-      name: 'application-name',
-      content: 'Welcome to Nature\'s Pasture'
-    },
-    {
-      name: 'description',
-      content: 'Welcome to Nature\'s Pasture',
-      id: 'desc'
-    }, // id to replace intead of create element
-    // ...
-    // Google+ / Schema.org
-    {
-      itemprop: 'name',
-      content: 'Welcome to Nature\'s Pasture'
-    },
-    {
-      itemprop: 'description',
-      content: 'Welcome to Nature\'s Pasture'
-    },
-    {
-      property: 'og:title',
-      content: 'Welcome to Nature\'s Pasture'
-    }
-    ]
   }
 }
 </script>

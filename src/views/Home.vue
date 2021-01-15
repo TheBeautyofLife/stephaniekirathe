@@ -872,14 +872,14 @@ One of the most reliable models for understanding customer behaviour is what’s
               </v-layout>
               <v-layout row wrap justify-center align-center mt-n8 >
                 <div class="ml-6 mr-6">
-                  <img width="270" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
+                  <img width="270" src="../assets/images/Double dimond.svg" alt="the double diamond">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Double dimond</p>
                     <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
                   </div>
                   </div>
                 <div class="ml-6 mr-6">
-                  <img width="270" src="../assets/images/UI Development.svg" alt="">
+                  <img width="270" src="../assets/images/UI Development.svg" alt="UI development - Vue.js development, JS, HTML & CSS">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
                     <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
@@ -1097,30 +1097,30 @@ export default {
   },
   head: {
     title: {
-      inner: 'Welcome to Stephanie\'s Kirathe personal website'
+      inner: 'About me'
     },
     meta: [{
       name: 'application-name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer'
     },
     {
       name: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website',
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer',
       id: 'desc'
     }, // id to replace intead of create element
     // ...
     // Google+ / Schema.org
     {
       itemprop: 'name',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'Welcome to Stephanie\'s Kirathe official website'
     },
     {
       itemprop: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer'
     },
     {
       property: 'og:title',
-      content: 'Welcome to Stephanie\'s Kirathe personal website'
+      content: 'Welcome to Stephanie\'s Kirathe official website'
     }
     ]
   }
