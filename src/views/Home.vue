@@ -6,8 +6,7 @@
         <main-header></main-header>
         <v-container style="width:1200px" class="my-17">
           <p class="main-title">I am a</p>
-          <p class="main-desc">Out-of-the box thinkner, Problem Solver, Creative, Workshop Facilitation, User
-            Experience, User Interface, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Enterprenuer</p>
+          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
@@ -131,14 +130,15 @@
                   <img width="250" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Double dimond</p>
-                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create effective product development & deployment processes. This framework explicitly provides designers and non-designers alike with a  process that facilitates innovation.</p>
                   </div>
                   </div>
                 <div class="ml-5 mr-5">
                   <img width="250" src="../assets/images/UI Development.svg" alt="">
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
-                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    <p class="body-3"> I frequently do research and study UI guidelines of relevant operating systems and CSS frameworks. These guidelines help me to meet standards in digital products and websites. I'm also a Javascript hobbyists- and highly proficient in Vue.js, CSS3, Sass/Scss and HTML5 have really been the core in designing "codeable", data driven interfaces. I believe a good UI design is a combination of design skills and technical know-how.
+
                     </p>
                   </div>
                 </div>
@@ -147,7 +147,7 @@
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Value Ladder</p>
                     <p class="body-3">
-                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer. The value ladder one of many business tools I used to design efficient interfaces that follows user stories.
                     </p>
                   </div>
                 </div>
@@ -272,6 +272,16 @@ One of the most reliable models for understanding customer behaviour is what’s
           </center>
         </v-container>
       </v-layout>
+      <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
@@ -279,8 +289,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         <main-header></main-header>
         <v-container style="width:950px" class="my-17">
           <p class="main-title">I am a</p>
-          <p class="main-desc">Out-of-the box thinkner, Problem Solver, Creative, Workshop Facilitation, User
-            Experience, User Interface, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Enterprenuer</p>
+          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:950px" class="my-n8">
@@ -335,14 +344,15 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <img width="290" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Double dimond</p>
-                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create effective product development & deployment processes. This framework explicitly provides designers and non-designers alike with a  process that facilitates innovation.</p>
                   </div>
                   </div>
                 <div class="ml-5 mr-5">
                   <img width="290" src="../assets/images/UI Development.svg" alt="">
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
-                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    <p class="body-3"> I frequently do research and study UI guidelines of relevant operating systems and CSS frameworks. These guidelines help me to meet standards in digital products and websites. I'm also a Javascript hobbyists- and highly proficient in Vue.js, CSS3, Sass/Scss and HTML5 have really been the core in designing "codeable", data driven interfaces. I believe a good UI design is a combination of design skills and technical know-how.
+
                     </p>
                   </div>
                 </div>
@@ -351,7 +361,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <div style="width:240px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Value Ladder</p>
                     <p class="body-3">
-                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer. The value ladder one of many business tools I used to design efficient interfaces that follows user stories.
                     </p>
                   </div>
                 </div>
@@ -542,6 +552,16 @@ One of the most reliable models for understanding customer behaviour is what’s
           </center>
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Tablet screens <= 768px  ------------------------------->
     <v-flex xs12 hidden-xs-only hidden-md-only hidden-xl-only hidden-lg-only>
@@ -549,8 +569,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         <main-header class="pr-1"></main-header>
         <v-container class="my-17 pl-5 pr-5">
           <p class="main-title">I am a</p>
-          <p class="main-desc-mobile">Out-of-the box thinkner, Problem Solver, Creative, Workshop Facilitation, User
-            Experience, User Interface, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Enterprenuer</p>
+          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
           <v-img src="../assets/images/main-mobile.svg" class="mt-10" contain alt=""/>
         </v-container>
@@ -605,14 +624,15 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <img width="270" src="../assets/images/Double dimond.svg" alt="my experience in the industry">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Double dimond</p>
-                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create effective product development & deployment processes. This framework explicitly provides designers and non-designers alike with a  process that facilitates innovation.</p>
                   </div>
                   </div>
                 <div class="ml-6 mr-6">
                   <img width="270" src="../assets/images/UI Development.svg" alt="">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
-                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    <p class="body-3"> I frequently do research and study UI guidelines of relevant operating systems and CSS frameworks. These guidelines help me to meet standards in digital products and websites. I'm also a Javascript hobbyists- and highly proficient in Vue.js, CSS3, Sass/Scss and HTML5 have really been the core in designing "codeable", data driven interfaces. I believe a good UI design is a combination of design skills and technical know-how.
+
                     </p>
                   </div>
                 </div>
@@ -621,7 +641,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Value Ladder</p>
                     <p class="body-3">
-                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer. The value ladder one of many business tools I used to design efficient interfaces that follows user stories.
                     </p>
                   </div>
                 </div>
@@ -812,6 +832,16 @@ One of the most reliable models for understanding customer behaviour is what’s
           </center>
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Mobile screens < 425px --------------------------------->
     <v-flex xs12 hidden-sm-and-up hidden-md-and-up>
@@ -819,8 +849,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         <main-header class="pr-1"></main-header>
         <v-container class="my-17 pl-5 pr-5">
           <p class="main-title">I am a</p>
-          <p class="main-desc-mobile">Out-of-the box thinkner, Problem Solver, Creative, Workshop Facilitation, User
-            Experience, User Interface, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Enterprenuer</p>
+          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
           <v-img src="../assets/images/main-mobile.svg" class="mt-10" contain alt=""/>
         </v-container>
@@ -875,14 +904,15 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <img width="270" src="../assets/images/Double dimond.svg" alt="the double diamond">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Double dimond</p>
-                    <p class="body-3"> I rely on the Double Diamond framework to create processes. This framework explicitly provides designers and non-designers alike with a design process.</p>
+                    <p class="body-3"> I rely on the Double Diamond framework to create effective product development & deployment processes. This framework explicitly provides designers and non-designers alike with a  process that facilitates innovation.</p>
                   </div>
                   </div>
                 <div class="ml-6 mr-6">
                   <img width="270" src="../assets/images/UI Development.svg" alt="UI development - Vue.js development, JS, HTML & CSS">
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">UI Development</p>
-                    <p class="body-3"> I frequently study UI guidelines of relevant operating systems,which tells me where to meet standards in digital products. A good UI design is a combination of design skills and technical know-how.
+                    <p class="body-3"> I frequently do research and study UI guidelines of relevant operating systems and CSS frameworks. These guidelines help me to meet standards in digital products and websites. I'm also a Javascript hobbyists- and highly proficient in Vue.js, CSS3, Sass/Scss and HTML5 have really been the core in designing "codeable", data driven interfaces. I believe a good UI design is a combination of design skills and technical know-how.
+
                     </p>
                   </div>
                 </div>
@@ -891,7 +921,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <div style="width:250px!important" class="text-left">
                     <p class="mt-n1 title font-weight-medium">Value Ladder</p>
                     <p class="body-3">
-                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer .
+                      A value ladder is a lineup of offers that increase in price and value that meet people where they are on their journey to become a customer. The value ladder one of many business tools I used to design efficient interfaces that follows user stories.
                     </p>
                   </div>
                 </div>
@@ -1086,6 +1116,16 @@ One of the most reliable models for understanding customer behaviour is what’s
           </center>
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
   </div>
 </template>
@@ -1138,6 +1178,10 @@ export default {
     letter-spacing: 0em;
     text-align: center;
 
+  }
+
+  a {
+    text-decoration: none;
   }
 
 </style>

@@ -186,6 +186,16 @@
           <!--  -->
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
@@ -270,7 +280,7 @@
                           </v-sheet>
                         </v-expand-transition>
                     </v-img>
-                    <p class="portfolio-text dark pb-5">Alero Group</p>
+                    <p class="portfolio-text pb-5">Alero Group</p>
                   </v-card>
                   </v-hover>
                 </div>
@@ -373,6 +383,16 @@
           <!--  -->
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Tablet screens <= 768px  ------------------------------->
     <v-flex xs12 hidden-xs-only hidden-md-only hidden-xl-only hidden-lg-only>
@@ -491,6 +511,16 @@
           <!--  -->
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
     <!-------------------------- Mobile screens < 425px --------------------------------->
     <v-flex xs12 hidden-sm-and-up hidden-md-and-up>
@@ -603,6 +633,16 @@
           <!--  -->
         </v-container>
       </v-layout>
+       <div>
+      <v-divider></v-divider>
+      <v-footer class="transparent pa-3">
+        <v-layout column wrap justify-center align-center>
+       <div class="caption grey--text">
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+       </div>
+       </v-layout>
+      </v-footer>
+      </div>
     </v-flex>
   </div>
 </template>
@@ -666,6 +706,10 @@ export default {
     letter-spacing: -0.006532743107527494px;
     text-align: center;
     color: #AC7339;
+  }
+
+  a {
+    text-decoration: none;
   }
 
 </style>
