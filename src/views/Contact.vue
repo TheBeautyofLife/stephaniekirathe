@@ -20,7 +20,7 @@
                   </p>
                   <div class="mt-20">
                     <span>Call</span>
-                    <h1 ><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
+                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
@@ -53,8 +53,8 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea auto-grow v-model="form.description" type="text" name="description" dense single-line
-                          outlined color="#CD9E6F">
+                        <v-textarea auto-grow v-model="form.description" type="text" name="description" dense
+                          single-line outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
                       <v-layout justify-end>
@@ -83,15 +83,16 @@
           </template>
         </v-snackbar>
       </v-layout>
-       <div>
-      <v-divider></v-divider>
-      <v-footer class="transparent pa-3">
-        <v-layout column wrap justify-center align-center>
-       <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
-       </div>
-       </v-layout>
-      </v-footer>
+      <div>
+        <v-divider></v-divider>
+        <v-footer class="transparent pa-3">
+          <v-layout column wrap justify-center align-center>
+            <div class="caption grey--text">
+              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
+                class="caption grey--text">POWERED BY ALERO GROUP</a>
+            </div>
+          </v-layout>
+        </v-footer>
       </div>
     </v-flex>
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
@@ -114,7 +115,7 @@
                   </p>
                   <div class="mt-20">
                     <span>Call</span>
-                    <h1 ><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
+                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
@@ -147,8 +148,8 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea auto-grow v-model="form.description" type="text" name="description" dense single-line
-                          outlined color="#CD9E6F">
+                        <v-textarea auto-grow v-model="form.description" type="text" name="description" dense
+                          single-line outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
                       <v-layout justify-end>
@@ -177,15 +178,16 @@
           </template>
         </v-snackbar>
       </v-layout>
-       <div>
-      <v-divider></v-divider>
-      <v-footer class="transparent pa-3">
-        <v-layout column wrap justify-center align-center>
-       <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
-       </div>
-       </v-layout>
-      </v-footer>
+      <div>
+        <v-divider></v-divider>
+        <v-footer class="transparent pa-3">
+          <v-layout column wrap justify-center align-center>
+            <div class="caption grey--text">
+              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
+                class="caption grey--text">POWERED BY ALERO GROUP</a>
+            </div>
+          </v-layout>
+        </v-footer>
       </div>
     </v-flex>
     <!-------------------------- Tablet screens <= 768px  ------------------------------->
@@ -208,7 +210,7 @@
                   </p>
                   <div class="mt-10">
                     <span>Call</span>
-                    <h1 ><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
+                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
                   </div>
                   <div class="mt-5">
                     <span>Email</span>
@@ -241,8 +243,8 @@
 
                       <div class="mb-4">
                         <label for="email" class="body-3 font-weight-medium">Project description</label>
-                        <v-textarea hide-details auto-grow v-model="form.description" type="text" name="description" dense
-                          single-line outlined color="#CD9E6F">
+                        <v-textarea hide-details auto-grow v-model="form.description" type="text" name="description"
+                          dense single-line outlined color="#CD9E6F">
                         </v-textarea>
                       </div>
                       <v-layout justify-end>
@@ -271,15 +273,16 @@
           </template>
         </v-snackbar>
       </v-layout>
-       <div>
-      <v-divider></v-divider>
-      <v-footer class="transparent pa-3">
-        <v-layout column wrap justify-center align-center>
-       <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
-       </div>
-       </v-layout>
-      </v-footer>
+      <div>
+        <v-divider></v-divider>
+        <v-footer class="transparent pa-3">
+          <v-layout column wrap justify-center align-center>
+            <div class="caption grey--text">
+              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
+                class="caption grey--text">POWERED BY ALERO GROUP</a>
+            </div>
+          </v-layout>
+        </v-footer>
       </div>
     </v-flex>
     <!-------------------------- Mobile screens < 425px --------------------------------->
@@ -299,12 +302,11 @@
               </p>
               <div class="mt-10">
                 <span>Call</span>
-                <h1 ><a class="title  email" href="tel:+254729245657">+254729245657</a></h1>
+                <h1><a class="title  email" href="tel:+254729245657">+254729245657</a></h1>
               </div>
               <div class="mt-5">
                 <span>Email</span>
-                <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                    class="title  email"
+                <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke" class="title  email"
                     style="text-decoration: none;">stephaniekirathe@alero.co.ke</a></h1>
               </div>
             </div>
@@ -378,15 +380,16 @@
       </template>
     </v-snackbar> -->
       </v-layout>
-       <div>
-      <v-divider></v-divider>
-      <v-footer class="transparent pa-3">
-        <v-layout column wrap justify-center align-center>
-       <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
-       </div>
-       </v-layout>
-      </v-footer>
+      <div>
+        <v-divider></v-divider>
+        <v-footer class="transparent pa-3">
+          <v-layout column wrap justify-center align-center>
+            <div class="caption grey--text">
+              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
+                class="caption grey--text">POWERED BY ALERO GROUP</a>
+            </div>
+          </v-layout>
+        </v-footer>
       </div>
     </v-flex>
   </div>

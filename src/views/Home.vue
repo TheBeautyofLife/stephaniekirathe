@@ -246,25 +246,30 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
-                      alt="https://web.facebook.com/stephaniekirathe">
+                      alt="https://web.facebook.com/stephkirathe">
                   </a>
-                  <a href="https://www.instagram.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephaniekirathe">
+                      alt="https://www.instagram.com/stephkirathe">
+                  </a>
+                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="33" src="../assets/icons/socials/Twitter.svg"
+                      alt="https://www.instagram.com/stephkirathe">
                   </a>
                   <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
-                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
-                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                    alt="https://www.behance.net/stephkirathe" class="mt-1">
                 </a>
                 </v-layout>
               </v-layout>
@@ -526,25 +531,30 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
-                      alt="https://web.facebook.com/stephaniekirathe">
+                      alt="https://web.facebook.com/stephkirathe">
                   </a>
-                  <a href="https://www.instagram.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephaniekirathe">
+                      alt="https://www.instagram.com/stephkirathe">
+                  </a>
+                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="33" src="../assets/icons/socials/Twitter.svg"
+                      alt="https://www.instagram.com/stephkirathe">
                   </a>
                   <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
-                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
-                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                    alt="https://www.behance.net/stephkirathe" class="mt-1">
                 </a>
                 </v-layout>
               </v-layout>
@@ -806,25 +816,30 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
-                      alt="https://web.facebook.com/stephaniekirathe">
+                      alt="https://web.facebook.com/stephkirathe">
                   </a>
-                  <a href="https://www.instagram.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephaniekirathe">
+                      alt="https://www.instagram.com/stephkirathe">
+                  </a>
+                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="33" src="../assets/icons/socials/Twitter.svg"
+                      alt="https://www.instagram.com/stephkirathe">
                   </a>
                   <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
-                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
-                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                    alt="https://www.behance.net/stephkirathe" class="mt-1">
                 </a>
                 </v-layout>
               </v-layout>
@@ -1090,25 +1105,30 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
-                      alt="https://web.facebook.com/stephaniekirathe">
+                      alt="https://web.facebook.com/stephkirathe">
                   </a>
-                  <a href="https://www.instagram.com/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephaniekirathe">
+                      alt="https://www.instagram.com/stephkirathe">
+                  </a>
+                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="33" src="../assets/icons/socials/Twitter.svg"
+                      alt="https://www.instagram.com/stephkirathe">
                   </a>
                   <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
                       alt="https://www.linkedin.com/in/stephaniekirathe/">
                   </a>
-                  <a href="https://www.behance.net/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
-                    alt="https://www.behance.net/stephaniekirathe" class="mt-1">
+                    alt="https://www.behance.net/stephkirathe" class="mt-1">
                 </a>
                 </v-layout>
               </v-layout>
@@ -1121,7 +1141,7 @@ One of the most reliable models for understanding customer behaviour is what’s
       <v-footer class="transparent pa-3">
         <v-layout column wrap justify-center align-center>
        <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO CORPORATION</a>
        </div>
        </v-layout>
       </v-footer>
