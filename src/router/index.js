@@ -7,7 +7,7 @@ Vue.use(VueRouter)
 
 Vue.use(VueHead, {
   separator: ' | ',
-  complement: 'Welcome to Stephanie\'s Kirathe personal website'
+  complement: 'Stephanie\'s Kirathe personal website'
 })
 
 const routes = [
@@ -20,6 +20,11 @@ const routes = [
     path: '/portfolio',
     name: 'Portfolio',
     component: () => import('../views/Portfolio.vue')
+  },
+  {
+    path: '/gallery',
+    name: 'Portfolio',
+    component: () => import('../views/Gallery.vue')
   },
   {
     path: '/contactme',

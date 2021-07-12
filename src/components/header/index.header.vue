@@ -16,11 +16,14 @@
           <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
           </router-link>
+          <router-link class="navlink" active-class="active" exact to="/gallery">
+            Gallery
+          </router-link>
           <router-link class="navlink" active-class="active" to="/contactme">
             Contact me
           </router-link>
           <a class="navlink" active-class="active" target="blank"
-            href="https://drive.google.com/file/d/14PV-nd_RQQZBBMhGeofvMnbRKtuZ0DaP/view">
+            href="https://drive.google.com/file/d/1nytf0X8pt11f9LMCpPDb2MLTuYz3JhqJ/view?usp=sharing">
             CV
           </a>
         </v-layout>
@@ -61,11 +64,14 @@
           <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
           </router-link>
+          <router-link class="navlink" active-class="active" exact to="/gallery">
+            Gallery
+          </router-link>
           <router-link class="navlink" active-class="active" to="/contactme">
             Contact me
           </router-link>
           <a class="navlink" active-class="active" target="blank"
-            href="https://drive.google.com/file/d/14PV-nd_RQQZBBMhGeofvMnbRKtuZ0DaP/view">
+            href="https://drive.google.com/file/d/1nytf0X8pt11f9LMCpPDb2MLTuYz3JhqJ/view?usp=sharing">
             CV
           </a>
         </v-layout>
@@ -132,7 +138,7 @@
             <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <a class="navlink" active-class="active" target="blank"
-                  href="https://drive.google.com/file/d/14PV-nd_RQQZBBMhGeofvMnbRKtuZ0DaP/view">
+                  href="https://drive.google.com/file/d/1nytf0X8pt11f9LMCpPDb2MLTuYz3JhqJ/view?usp=sharing">
                   CV
                 </a>
               </v-row>
@@ -211,7 +217,7 @@
             <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <a class="navlink" active-class="active" target="blank"
-                  href="https://drive.google.com/file/d/14PV-nd_RQQZBBMhGeofvMnbRKtuZ0DaP/view">
+                  href="https://drive.google.com/file/d/1nytf0X8pt11f9LMCpPDb2MLTuYz3JhqJ/view?usp=sharing">
                   CV
                 </a>
               </v-row>

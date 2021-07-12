@@ -256,21 +256,26 @@ One of the most reliable models for understanding customer behaviour is what’s
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a>
-                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  </a> -->
+                  <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
-                      alt="https://www.linkedin.com/in/stephaniekirathe/">
+                      alt="https://www.linkedin.com/in/stephkirathe/">
                   </a>
                   <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                </a>
+                  </a>
+                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="20" src="../assets/icons/socials/Figma.svg"
+                      alt="https://www.figma.com/@stephkirathe">
+                  </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -531,7 +536,7 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
                       alt="https://web.facebook.com/stephkirathe">
@@ -541,21 +546,26 @@ One of the most reliable models for understanding customer behaviour is what’s
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a>
-                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  </a> -->
+                  <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
-                      alt="https://www.linkedin.com/in/stephaniekirathe/">
+                      alt="https://www.linkedin.com/in/stephkirathe/">
                   </a>
                   <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                </a>
+                  </a>
+                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="20" src="../assets/icons/socials/Figma.svg"
+                      alt="https://www.figma.com/@stephkirathe">
+                  </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -826,21 +836,26 @@ One of the most reliable models for understanding customer behaviour is what’s
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a>
-                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  </a> -->
+                  <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
-                      alt="https://www.linkedin.com/in/stephaniekirathe/">
+                      alt="https://www.linkedin.com/in/stephkirathe/">
                   </a>
                   <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                </a>
+                  </a>
+                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="20" src="../assets/icons/socials/Figma.svg"
+                      alt="https://www.figma.com/@stephkirathe">
+                  </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -1115,21 +1130,26 @@ One of the most reliable models for understanding customer behaviour is what’s
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a>
-                  <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <a href="https://www.linkedin.com/in/stephaniekirathe" target="_blank" rel="noopener noreferrer"
+                  </a> -->
+                  <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
-                      alt="https://www.linkedin.com/in/stephaniekirathe/">
+                      alt="https://www.linkedin.com/in/stephkirathe/">
                   </a>
                   <a href="https://www.behance.net/stephkirathe" target="_blank" rel="noopener noreferrer"
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                </a>
+                  </a>
+                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    class="ma-3">
+                    <img width="20" src="../assets/icons/socials/Figma.svg"
+                      alt="https://www.figma.com/@stephkirathe">
+                  </a>
                 </v-layout>
               </v-layout>
             </div>
@@ -1147,10 +1167,26 @@ One of the most reliable models for understanding customer behaviour is what’s
       </v-footer>
       </div>
     </v-flex>
+    <!-- Messenger Chat plugin Code -->
+    <div id="fb-root"></div>
+
+    <!-- Your Chat plugin code -->
+    <div id="fb-customer-chat" class="fb-customerchat">
+    </div>
+
   </div>
 </template>
 <script>
+import Vue from 'vue'
+import VueFbCustomerChat from 'vue-fb-customer-chat'
 import Header from '@/components/header/index.header'
+
+Vue.use(VueFbCustomerChat, {
+  page_id: 1519000258183530, //  change 'null' to your Facebook Page ID,
+  theme_color: '#CD9E6F', // theme color in HEX
+  locale: 'en_US' // default 'en_US'
+})
+
 export default {
   components: {
     'main-header': Header
