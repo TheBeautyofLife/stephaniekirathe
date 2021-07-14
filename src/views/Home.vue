@@ -10,7 +10,7 @@
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
-          <img width="1200px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/main_Ix0-s7U1l.jpg" alt="">
+          <img width="1200px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/cover_zYWNP3JLbm.svg" alt="">
           <center class="mt-10">
             <v-divider width="1200px"></v-divider>
             <div class="mt-17 quotes">
@@ -303,7 +303,7 @@ One of the most reliable models for understanding customer behaviour is what’s
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:950px" class="my-n8">
-          <img width="900px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/main_Ix0-s7U1l.jpg" alt="">
+          <img width="900px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/cover_zYWNP3JLbm.svg" alt="">
           <center class="mt-10">
             <v-divider width="950px"></v-divider>
             <div class="mt-17 quotes">
@@ -591,7 +591,7 @@ One of the most reliable models for understanding customer behaviour is what’s
           <p class="main-title">I am a</p>
           <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
-          <v-img src="../assets/images/main-mobile.svg" class="mt-10" contain alt=""/>
+          <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/mobile-cover_Rdh5BedQN.svg" class="mt-10" contain alt=""/>
         </v-container>
         <v-container class="my-n10">
           <center>
@@ -881,7 +881,7 @@ One of the most reliable models for understanding customer behaviour is what’s
           <p class="main-title">I am a</p>
           <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
-          <v-img src="../assets/images/main-mobile.svg" class="mt-10" contain alt=""/>
+          <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/mobile-cover_Rdh5BedQN.svg" class="mt-10" contain alt=""/>
         </v-container>
         <v-container class="my-n10">
           <center>
