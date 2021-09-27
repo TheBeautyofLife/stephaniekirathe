@@ -731,13 +731,13 @@
                     <p class="portfolio-text dark pb-5">LearnHub</p>
                   </v-card>
                 </div> -->
-                <div>
+                <!-- <div>
                   <v-card color="#E2E2E2">
                     <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_2__0rftxF21W.png"
                       alt="my experience in the industry">
                     <p class="portfolio-text black--text pb-5">Nature’s Pasture</p>
                   </v-card>
-                </div>
+                </div> -->
 
                 <div>
                   <v-card color="#DD99A3">
