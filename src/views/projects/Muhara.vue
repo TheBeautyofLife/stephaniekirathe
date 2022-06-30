@@ -13,7 +13,7 @@
                       <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_2_h_q6F2Nau.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604269157" alt="GananaDev-2"></v-img>
                        <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_3_gunk9e70T.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604268990" alt="GananaDev-3"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_4_nHx2vIUd6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225706" alt="GananaDev-4"></v-img>
-                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_LOAbeDutF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614987411" alt="GananaDev-5"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_rMofDBzYi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225474" alt="GananaDev-5"></v-img>
                        <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_6_i3pXcGNkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604270259" alt="GananaDev-1"></v-img>
                       <v-img src=" " alt="GananaDev-1"></v-img>
                   </v-layout>
@@ -85,7 +85,7 @@
                       <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_2_h_q6F2Nau.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604269157" alt="GananaDev-2"></v-img>
                        <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_3_gunk9e70T.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604268990" alt="GananaDev-3"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_4_nHx2vIUd6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225706" alt="GananaDev-4"></v-img>
-                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_LOAbeDutF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614987411" alt="GananaDev-5"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_rMofDBzYi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225474" alt="GananaDev-5"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_6_i3pXcGNkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604270259" alt="GananaDev-1"></v-img>
                   </v-layout>
                  </v-card>
@@ -95,37 +95,18 @@
              <v-sheet>
                 <v-layout mt-12>
                 <v-layout justify-start>
-                                     <!-- Alero  -->
-                <!-- <div class="ml-4">
+                <!-- Ganana Developers -->
+                <div class="ml-4">
                   <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/alero">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_4o1RGsjQM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340376"
+                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" >
+   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
                             style="height:100%;opacity:0.8">
                              <v-layout column justify-center>
                                <p class="overline black--text mt-18">Previous</p>
-                              <p class="headline black--text mt-n3">Alero</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
-            <!-- Class & Sass -->
-                <div>
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/classandsasskenya" >
-             <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Previous</p>
-                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
@@ -137,67 +118,8 @@
                 </v-layout>
                <v-layout justify-end>
 
-                 <!-- The Paint Depo  -->
-                <!-- <div>
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/paintdepo">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_qu1uQlInV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605341034"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Next</p>
-                              <p class="headline black--text mt-n3">The Paint Depo</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
-
-                <!-- Ganana Developers -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Next</p>
-                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div>
-
-                <!-- Muhara Salon  -->
-                <!-- <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">beauty Salon and cosmetic agency</p>
-                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
                 <!-- Alero ERP Mobile Hybrid application -->
-                <!-- <div class="ml-4">
+                <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/aleroerpapp" >
    <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/aleroERP_zDPa1OC6H.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340429"
@@ -206,15 +128,15 @@
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
                             style="height:100%;opacity:0.8">
                              <v-layout column justify-center>
-                               <p class="overline black--text mt-18">creative agency</p>
-                              <p class="headline black--text mt-n3">Alero</p>
+                               <p class="overline black--text mt-18">Next</p>
+                              <p class="headline black--text mt-n3">Alero ERP</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
                       </v-img>
                     </v-card>
                   </v-hover>
-                </div> -->
+                </div>
               </v-layout>
                 </v-layout>
              </v-sheet>
@@ -234,7 +156,7 @@
                       <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_2_h_q6F2Nau.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604269157" alt="GananaDev-2"></v-img>
                        <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_3_gunk9e70T.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604268990" alt="GananaDev-3"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_4_nHx2vIUd6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225706" alt="GananaDev-4"></v-img>
-                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_LOAbeDutF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614987411" alt="GananaDev-5"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_rMofDBzYi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225474" alt="GananaDev-5"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_6_i3pXcGNkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604270259" alt="GananaDev-1"></v-img>
                   </v-layout>
                  </v-card>
@@ -244,37 +166,18 @@
              <v-sheet>
                 <v-layout mt-12>
                 <v-layout justify-start>
-                                     <!-- Alero  -->
-                <!-- <div class="ml-4">
+                <!-- Ganana Developers -->
+                <div class="ml-4">
                   <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/alero">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_4o1RGsjQM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340376"
+                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" >
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
                             style="height:100%;opacity:0.8">
                              <v-layout column justify-center>
                                <p class="overline black--text mt-18">Previous</p>
-                              <p class="headline black--text mt-n3">Alero</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
-            <!-- Class & Sass -->
-                <div>
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/classandsasskenya" >
-             <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Previous</p>
-                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
@@ -286,67 +189,8 @@
                 </v-layout>
                <v-layout justify-end>
 
-                 <!-- The Paint Depo  -->
-                <!-- <div>
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/paintdepo">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_qu1uQlInV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605341034"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Next</p>
-                              <p class="headline black--text mt-n3">The Paint Depo</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
-
-                <!-- Ganana Developers -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">Next</p>
-                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div>
-
-                <!-- Muhara Salon  -->
-                <!-- <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">beauty Salon and cosmetic agency</p>
-                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    </v-card>
-                  </v-hover>
-                </div> -->
                 <!-- Alero ERP Mobile Hybrid application -->
-                <!-- <div class="ml-4">
+                <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/aleroerpapp" >
    <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/aleroERP_zDPa1OC6H.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340429"
@@ -355,15 +199,15 @@
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
                             style="height:100%;opacity:0.8">
                              <v-layout column justify-center>
-                               <p class="overline black--text mt-18">creative agency</p>
-                              <p class="headline black--text mt-n3">Alero</p>
+                               <p class="overline black--text mt-18">Next</p>
+                              <p class="headline black--text mt-n3">Alero ERP</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
                       </v-img>
                     </v-card>
                   </v-hover>
-                </div> -->
+                </div>
               </v-layout>
                 </v-layout>
              </v-sheet>
@@ -382,7 +226,7 @@
                       <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_2_h_q6F2Nau.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604269157" alt="GananaDev-2"></v-img>
                        <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_3_gunk9e70T.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604268990" alt="GananaDev-3"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_4_nHx2vIUd6.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225706" alt="GananaDev-4"></v-img>
-                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_LOAbeDutF.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614987411" alt="GananaDev-5"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_5_rMofDBzYi.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656614225474" alt="GananaDev-5"></v-img>
                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Muhara/Muhara_-_6_i3pXcGNkE.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656604270259" alt="GananaDev-1"></v-img>
                   </v-layout>
                  </v-card>
