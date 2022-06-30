@@ -246,7 +246,7 @@ export default {
   },
   head: {
     title: {
-      inner: 'Alero Corporation'
+      inner: 'Muhara Hair & Beauty'
     },
     meta: [{
       name: 'application-name',

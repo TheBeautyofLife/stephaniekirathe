@@ -482,7 +482,7 @@ export default {
   },
   head: {
     title: {
-      inner: 'Alero Corporation'
+      inner: 'Class & Sass Kenya'
     },
     meta: [{
       name: 'application-name',

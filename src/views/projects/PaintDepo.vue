@@ -468,7 +468,7 @@ export default {
   },
   head: {
     title: {
-      inner: 'Alero Corporation'
+      inner: 'The Paint Depo Limited'
     },
     meta: [{
       name: 'application-name',

@@ -249,7 +249,7 @@ export default {
   },
   head: {
     title: {
-      inner: 'Alero Corporation'
+      inner: 'Ganana Developers Limited'
     },
     meta: [{
       name: 'application-name',

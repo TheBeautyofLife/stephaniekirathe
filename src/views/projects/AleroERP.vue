@@ -179,7 +179,7 @@ export default {
   },
   head: {
     title: {
-      inner: 'Alero Corporation'
+      inner: 'Alero ERP'
     },
     meta: [{
       name: 'application-name',
