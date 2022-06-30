@@ -796,43 +796,6 @@
     </v-flex>
   </div>
 </template>
-<script>
-import Header from '@/components/header/index.header'
-export default {
-  components: {
-    'main-header': Header
-  },
-  head: {
-    title: {
-      inner: 'My Work'
-    },
-    meta: [{
-      name: 'application-name',
-      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
-    },
-    {
-      name: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe official website. This is the portfolio page, feel free to reach out to me anytime',
-      id: 'desc'
-    }, // id to replace intead of create element
-    // ...
-    // Google+ / Schema.org
-    {
-      itemprop: 'name',
-      content: 'portfolio page'
-    },
-    {
-      itemprop: 'description',
-      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
-    },
-    {
-      property: 'og:title',
-      content: 'Stephanie\'s Kirathe official website.This is the portfolio page'
-    }
-    ]
-  }
-}
-</script>
 
 <style scoped>
   .portfolio-text {

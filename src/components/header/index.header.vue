@@ -13,14 +13,17 @@
           <router-link class="navlink" active-class="active" exact to="/">
             About
           </router-link>
-          <router-link class="navlink" active-class="active" exact to="/portfolio">
+          <!-- <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
-          </router-link>
+          </router-link> -->
           <router-link class="navlink" active-class="active" exact to="/gallery">
             Gallery
           </router-link>
           <router-link class="navlink" active-class="active" to="/contactme">
             Contact me
+          </router-link>
+          <router-link class="navlink" active-class="active" to="/blog">
+            Blog
           </router-link>
           <a class="navlink" active-class="active" target="blank"
             href="https://drive.google.com/file/d/1nytf0X8pt11f9LMCpPDb2MLTuYz3JhqJ/view?usp=sharing">
@@ -61,9 +64,9 @@
           <router-link class="navlink" active-class="active" exact to="/">
             About
           </router-link>
-          <router-link class="navlink" active-class="active" exact to="/portfolio">
+          <!-- <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
-          </router-link>
+          </router-link> -->
           <router-link class="navlink" active-class="active" exact to="/gallery">
             Gallery
           </router-link>
@@ -121,13 +124,13 @@
                 </router-link>
               </v-row>
             </v-card>
-            <v-card flat class="pa-3" style="border-radius:0px!important">
+            <!-- <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" exact to="/portfolio">
                   Portfolio
                 </router-link>
               </v-row>
-            </v-card>
+            </v-card> -->
             <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" to="/contactme">
@@ -200,13 +203,13 @@
                 </router-link>
               </v-row>
             </v-card>
-            <v-card flat class="pa-3" style="border-radius:0px!important">
+            <!-- <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" exact to="/portfolio">
                   Portfolio
                 </router-link>
               </v-row>
-            </v-card>
+            </v-card> -->
             <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" to="/contactme">
