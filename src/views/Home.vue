@@ -4,7 +4,7 @@
     <v-flex xs12 hidden-md-and-down hidden-sm-and-down>
       <v-layout column wrap mb-9>
         <main-header style="z-index:1"></main-header>
-        <div class="my-n19 mb-10">
+        <div class="my-n19">
           <v-sheet>
           <v-carousel
     cycle
@@ -43,7 +43,7 @@
       </v-flex>
     </v-layout>
         </div>
-        <v-container style="width:1200px" class="my-20">
+        <v-container style="width:1200px; margin-top:400px!important" class="my-2">
           <p class="main-title">I am a</p>
           <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
