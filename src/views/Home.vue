@@ -43,10 +43,10 @@
       </v-flex>
     </v-layout>
         </div>
-        <v-container style="width:1200px; margin-top:400px!important" class="my-2">
+        <v-container style="width:1200px; margin-top:350px!important" class="my-2">
           <p class="main-title">I am a</p>
           <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
-          <p class="main-title">Product Designer</p>
+          <p class="main-title mb-8">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
           <img width="1200px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/cover_zYWNP3JLbm.svg" alt="">
