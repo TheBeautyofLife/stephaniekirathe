@@ -6,16 +6,16 @@
         <router-link to="/" style="text-decoration:none;">
           <v-layout row align-center>
             <img width="50" class="mt-8 ml-12" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
-            <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div>
+            <!-- <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div> -->
           </v-layout>
         </router-link>
         <v-layout row justify-end mr-10>
           <router-link class="navlink" active-class="active" exact to="/">
             About
           </router-link>
-          <!-- <router-link class="navlink" active-class="active" exact to="/portfolio">
+          <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
-          </router-link> -->
+          </router-link>
           <router-link class="navlink" active-class="active" exact to="/gallery">
             Gallery
           </router-link>
@@ -57,16 +57,16 @@
          <router-link to="/" style="text-decoration:none;" class="mx-9">
           <v-layout row align-center>
             <img width="50" class="mt-8" :src="require('@/assets/images/logo.svg')" alt="stephanie kirathe's logo - official brand">
-            <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div>
+            <!-- <div class="mt-8 ml-6 main-app-title">Stephanie Kirathe</div> -->
           </v-layout>
          </router-link>
         <v-layout row justify-end>
           <router-link class="navlink" active-class="active" exact to="/">
             About
           </router-link>
-          <!-- <router-link class="navlink" active-class="active" exact to="/portfolio">
+          <router-link class="navlink" active-class="active" exact to="/portfolio">
             Portfolio
-          </router-link> -->
+          </router-link>
           <router-link class="navlink" active-class="active" exact to="/gallery">
             Gallery
           </router-link>
@@ -124,13 +124,13 @@
                 </router-link>
               </v-row>
             </v-card>
-            <!-- <v-card flat class="pa-3" style="border-radius:0px!important">
+            <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" exact to="/portfolio">
                   Portfolio
                 </router-link>
               </v-row>
-            </v-card> -->
+            </v-card>
             <v-card flat class="pa-3" style="border-radius:0px!important">
               <v-row class="pl-6 ">
                 <router-link class="navlink" active-class="active" to="/contactme">

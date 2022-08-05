@@ -7,22 +7,43 @@
 @import url('https://fonts.googleapis.com/css?family=Lucida+Grande&display=swap');
 
 
+.v-application, 
+.body-1,
+.main-app-title,
+.main-app-dark-title
+.display-4,
+.title
+.body-3,
+.display-5,
+.display-1,
+a.display-1,
+.display-2,
+.display-3  
+{
+  font-family: Helvetica Neue;
+}
 
 .main-app-title,
 .body-1 {
-    color: $loci-gray !important;
+    color: $main-gray !important;
+    font-family: Helvetica Neue;
+}
+
+.main-app-dark-title,
+.body-dark-1 {
+    color: $main-white !important;
     font-family: Helvetica Neue;
 }
 
 .display-4,
 .title
 .body-3 {
-    color: $loci-dark-gray !important;
+    color: $main-dark-gray !important;
     font-family: Helvetica Neue;
 }
 .display-5 {
   font-size: 120px;
-    // color: $loci-gray !important;
+    // color: $main-gray !important;
     font-family: Helvetica Neue;
 }
 
@@ -245,12 +266,22 @@ a.display-1,
 .navlink {
     margin: 0 1rem;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 500;
     top: 0;
     font-family: Helvetica Neue;
     text-decoration: none;
-    color:  #a6a6a7cb!important;
+    color:  #292929cc!important;
+}
+.navlink-dark {
+  margin: 0 1rem;
+  cursor: pointer;
+  font-size: 18px;
+  font-weight: 500;
+  top: 0;
+  font-family: Helvetica Neue;
+  text-decoration: none;
+  color:  #292929cc!important;
 }
 .navlink.small {
   display: inline-block;
@@ -332,6 +363,28 @@ color: #CD9E6F!important;
 .v-application .ml-3-variant {
   margin-left: 14px !important;
 }
+.v-application .ml-14 {
+  margin-left: 110px !important;
+}
+.v-application .ml-16 {
+  margin-left: 190px !important;
+}
 .v-application .ml-1-variant {
   margin-left: 0.4px !important;
+}
+
+.v-application .my-n13 {
+  margin-top: -99px !important;
+}
+
+.v-application .my-n14 {
+  margin-top: -120px !important;
+}
+
+.v-application .my-n15 {
+  margin-top: -180px !important;
+}
+
+.v-application .my-n16 {
+  margin-top: -220px !important;
 }

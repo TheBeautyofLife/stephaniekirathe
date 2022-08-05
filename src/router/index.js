@@ -52,6 +52,11 @@ const routes = [
     component: () => import('../views/projects/Muhara.vue')
   },
   {
+    path: '/portfolio/brickcom',
+    name: 'Muharabeauty',
+    component: () => import('../views/projects/Brickcom.vue')
+  },
+  {
     path: '/gallery',
     name: 'Portfolio',
     component: () => import('../views/Gallery.vue')

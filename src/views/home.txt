@@ -1,0 +1,132 @@
+         <div>
+           <v-divider width="1200px"></v-divider>
+              <v-layout column justify-start align-start  mt-17>
+                <div class="display-3 mb-4">Portfolio</div>
+              </v-layout>
+            <!--  -->
+              <div class="mt-n5">
+              <v-layout row justify-center>
+                 <!-- Alero  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/alero" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                 <!-- The Paint Depo  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/paintdepo" target="_blank">
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">paint and coatings</p>
+                              <p class="headline black--text mt-n3">The Paint Depo</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Class & Sass -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/classandsasskenya" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">fashion ecommerce</p>
+                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Ganana Developers -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">real estate</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Muhara Salon  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/muharabeauty" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">beauty Salon and cosmetic agency</p>
+                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Alero ERP Mobile Hybrid application -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat color="#fff" to="/portfolio/aleroerpapp" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+              </v-layout>
+              </div>
+              <!--  -->
+              </div>

@@ -9,210 +9,180 @@
           <center class="mt-10">
             <div id="career" class="mt-19">
               <v-layout column justify-start align-start mb-8>
-                <p class="display-3 mb-4">My Work</p>
+                <p class="display-3 mb-4">UI/UX Work</p>
                 <p class="body-2 ml-1"> projects I've worked on...</p>
               </v-layout>
               <v-layout row justify-center>
-                <div class="ml-4 mt-19">
+                 <!--  -->
+              <div class="mt-n5">
+              <v-layout row justify-center>
+                 <!-- Alero  -->
+                <div class="ml-4">
                   <v-hover v-slot="{ hover }">
-                    <v-card color="#262AA3">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Brick_VMod9FoSn.png"
+                    <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
-                          <v-sheet color="#262AA3" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
                             style="height:100%;opacity:0.8">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" rel="nofollow" href="https://brickcom.alero.co.ke/"
-                                class="white--text mt-18" style="text-decoration:none">Visit Site</a>
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
                       </v-img>
-                      <p class="headline font-weight-light white--text pb-5">Brickcom Logistics Limited</p>
+                      <p class="body-2 font-weight-light pb-5 des">UI/UX Design | Branding | Social Media Marketing</p>
                     </v-card>
                   </v-hover>
                 </div>
-                <div class="ml-4 mt-16">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#662583">
-                      <v-img width="370"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_1__2x7IrMzxb.png"
-                        alt="">
-                        <v-expand-transition>
-                          <v-sheet color="#662583" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" column justify-center align-center>
-                              <a target="_blank" href="https://www.thepaintdepo.co.ke/" class="white--text mt-18"
-                                style="text-decoration:none">Visit Site</a>
-                              <v-row class="mt-5 align-center">
-                                <a href="https://web.facebook.com/decorativepaint17/" target="_blank"
-                                  rel="noopener noreferrer" class="ma-3">
-                                  <img width="30" src="../assets/icons/socials/Facebook-white.svg"
-                                    alt="https://web.facebook.com/decorativepaint17/">
-                                </a>
-                                <a href="https://www.instagram.com/thepaintdepo_ke/" target="_blank"
-                                  rel="noopener noreferrer" class="ma-3">
-                                  <img width="30" src="../assets/icons/socials/Instagram-white.svg"
-                                    alt="https://www.instagram.com/stephkirathe">
-                                </a>
-                              </v-row>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="headline font-weight-light white--text pb-5">Paint Depo Limited</p>
-                    </v-card>
-                  </v-hover>
-                </div>
+                 <!-- The Paint Depo  -->
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
-                    <v-card color="#FD7D12">
-                      <v-img width="370"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_DYdMlexzi.png" alt="">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                        alt="my experience in the industry">
                         <v-expand-transition>
-                          <v-sheet color="#FD7D12" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">paint and coatings</p>
+                              <p class="headline black--text mt-n3">The Paint Depo</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
                       </v-img>
-                      <p class="headline font-weight-light white--text pb-5">LociFood Ecommerce</p>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Class & Sass -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">fashion ecommerce</p>
+                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Ganana Developers -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">real estate</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Muhara Salon  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 21, 9, 0.4) -13.68%, rgba(52, 21, 9, 0.2627) 20.56%, rgba(52, 21, 9, 0) 90.67%);" to="/portfolio/muharabeauty" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">beauty Salon & cosmetics</p>
+                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Alero ERP Mobile Hybrid application -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(25, 109, 166, 0.4) -13.68%, rgba(25, 109, 166, 0.2627) 20.56%, rgba(25, 109, 166, 0) 90.67%);" to="/portfolio/aleroerpapp" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Online Retailing</p>
+                              <p class="headline black--text mt-n3">Alero ERP Cloud</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Celebuddy
+                 -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Entertainment</p>
+                              <p class="headline black--text mt-n3">Celebuddy</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Mindfulliving -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Wellbeing</p>
+                              <p class="headline black--text mt-n3">Mindfulliving Uganda</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
                     </v-card>
                   </v-hover>
                 </div>
               </v-layout>
-              <v-layout row justify-center align-center>
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#264C2D">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_38_jEHh4q7Lk.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#264C2D" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="black--text headline" column justify-center align-center>
-                              <a target="_blank" href="https://www.alero.co.ke/" class="white--text mt-18"
-                                style="text-decoration:none">Visit Site</a>
-                              <v-row class="mt-5 align-center">
-                                <a href="https://web.facebook.com/alerogroup" target="_blank" rel="noopener noreferrer"
-                                  class="ma-3">
-                                  <img width="30" src="../assets/icons/socials/Facebook-white.svg"
-                                    alt="https://web.facebook.com/alerogroup">
-                                </a>
-                                <a href="https://www.instagram.com/thepaintdepo_ke/" target="_blank"
-                                  rel="noopener noreferrer" class="ma-3">
-                                  <img width="30" src="../assets/icons/socials/Instagram-white.svg"
-                                    alt="https://www.instagram.com/alerogroup">
-                                </a>
-                                <a href="https://www.twitter.com/alerogroup" target="_blank" rel="noopener noreferrer"
-                                  class="ma-3">
-                                  <img width="33" src="../assets/icons/socials/Twitter-white.svg"
-                                    alt="https://www.instagram.com/alerogroup">
-                                </a>
-                              </v-row>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="headline font-weight-light white--text pb-5">Alero Corporation</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="ml-4 mt-n21">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#0A093D">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_13_o3eUpKY9C.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#0A093D" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="headline font-weight-light white--text pb-5">Joshua Kimbareeba</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="ml-4 mt-n23">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#DC121F">
-                      <v-img width="370"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#DC121F" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="headline font-weight-light white--text pb-5">Health App</p>
-                    </v-card>
-                  </v-hover>
-                </div>
+              </div>
+              <!--  -->
               </v-layout>
               <v-layout row justify-center align-center>
-                <div class="ml-4 mt-n17">
-                  <v-card flat color="transparent">
-                    <img width="370" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="headline font-weight-light white--text pb-5"></p>
-                  </v-card>
-                </div>
-                <div class="ml-4 mt-n17">
-                  <v-card flat color="transparent">
-                    <img width="370" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="headline font-weight-light white--text pb-5"></p>
-                  </v-card>
-                </div>
-
-                <!-- <div class="ml-4 mt-n22">
-                  <v-hover v-slot="{ hover }">
-                  <v-card color="#E2E2E2">
-                    <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_2__0rftxF21W.png" alt="my experience in the industry">
-                    <v-expand-transition>
-                          <v-sheet color="#E2E2E2" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="black--text mt-18" style="text-decoration:none">Link unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                    <p class="headline font-weight-light white--text black--text pb-5">Nature’s Pasture</p>
-                  </v-card>
-                  </v-hover>
-                </div> -->
-
-                <div class="ml-4 mt-n22">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#DD99A3">
-                      <v-img width="370"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_1__A89QxeXXT.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#DD99A3" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="headline font-weight-light white--text  pb-5">Mindfuliving Uganda</p>
-                    </v-card>
-                  </v-hover>
-                </div>
+               <!--  -->
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
@@ -270,190 +240,177 @@
           <center class="mt-5">
             <div id="career" class="mt-19">
               <v-layout column justify-center align-center mb-8>
-                <p class="display-3 mb-4">My Work</p>
+                <p class="display-3 mb-4">UI/UX Work</p>
                 <p class="body-2 ml-1"> projects I've worked on...</p>
               </v-layout>
-              <v-layout row justify-center align-center>
-                <div class="ml-4 mt-19">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#262AA3">
-                      <v-img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Brick_VMod9FoSn.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#262AA3" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" rel="nofollow" href="https://brickcom.alero.co.ke/"
-                                class="white--text mt-18" style="text-decoration:none">Visit Site</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Brickcom Logistics Limited</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="ml-4 mt-16">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#662583">
-                      <v-img width="270"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_1__2x7IrMzxb.png"
-                        alt="">
-                        <v-expand-transition>
-                          <v-sheet color="#662583" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" column align-center justify-center>
-                              <a target="_blank" href="https://www.thepaintdepo.co.ke/" class="white--text mt-18"
-                                style="text-decoration:none">Visit Site</a>
-                                <v-row class="mt-n1 align-center">
-                                <a href="https://web.facebook.com/decorativepaint17/" target="_blank"
-                                  rel="noopener noreferrer" class="ma-3">
-                                  <img width="25" src="../assets/icons/socials/Facebook-white.svg"
-                                    alt="https://web.facebook.com/decorativepaint17/">
-                                </a>
-                                <a href="https://www.instagram.com/thepaintdepo_ke/" target="_blank"
-                                  rel="noopener noreferrer" class="ma-3">
-                                  <img width="25" src="../assets/icons/socials/Instagram-white.svg"
-                                    alt="https://www.instagram.com/stephkirathe">
-                                </a>
-                              </v-row>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Paint Depo Limited</p>
-                    </v-card>
-                  </v-hover>
-                </div>
+              <v-layout row justify-center>
+                 <!--  -->
+              <div class="mt-n5">
+              <v-layout row justify-center>
+                 <!-- Alero  -->
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
-                    <v-card color="#FD7D12">
-                      <v-img width="270"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_DYdMlexzi.png" alt="">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                        alt="my experience in the industry">
                         <v-expand-transition>
-                          <v-sheet color="#FD7D12" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
                             </v-layout>
                           </v-sheet>
                         </v-expand-transition>
                       </v-img>
-                      <p class="portfolio-text pb-5">LociFood Ecommerce</p>
+                      <p class="body-2 font-weight-light pb-5 des">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                 <!-- The Paint Depo  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">paint and coatings</p>
+                              <p class="headline black--text mt-n3">The Paint Depo</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Class & Sass -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">fashion ecommerce</p>
+                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Ganana Developers -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">real estate</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Muhara Salon  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 21, 9, 0.4) -13.68%, rgba(52, 21, 9, 0.2627) 20.56%, rgba(52, 21, 9, 0) 90.67%);" to="/portfolio/muharabeauty" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">beauty Salon & cosmetics</p>
+                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Alero ERP Mobile Hybrid application -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(25, 109, 166, 0.4) -13.68%, rgba(25, 109, 166, 0.2627) 20.56%, rgba(25, 109, 166, 0) 90.67%);" to="/portfolio/aleroerpapp" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Online Retailing</p>
+                              <p class="headline black--text mt-n3">Alero ERP Cloud</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Celebuddy
+                 -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Entertainment</p>
+                              <p class="headline black--text mt-n3">Celebuddy</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Mindfulliving -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Wellbeing</p>
+                              <p class="headline black--text mt-n3">Mindfulliving Uganda</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
                     </v-card>
                   </v-hover>
                 </div>
               </v-layout>
-              <v-layout row justify-center align-center>
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#264C2D">
-                      <v-img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_38_jEHh4q7Lk.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#264C2D" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="https://www.alero.co.ke/" class="white--text mt-18"
-                                style="text-decoration:none">Visit Site</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Alero Corporation</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="ml-4 mt-n17">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#0A093D">
-                      <v-img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_13_o3eUpKY9C.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#0A093D" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a target="_blank" href="#" class="white--text mt-18" style="text-decoration:none">Link
-                                unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <div class="ml-4 mt-n20">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#DC121F">
-                      <v-img width="270"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#DC121F" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a href="#" class="white--text mt-18" style="text-decoration:none">Visit</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Health App</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-              </v-layout>
-              <v-layout row justify-center align-center>
-                <div class="ml-4 mt-n17">
-                  <v-card flat color="transparent">
-                    <img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div>
-                <div class="ml-4 mt-n17">
-                  <v-card flat color="transparent">
-                    <img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div>
-                <!-- <div class="ml-4 mt-n16">
-                  <v-hover v-slot="{ hover }">
-                  <v-card color="#E2E2E2">
-                    <v-img width="270" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_2__0rftxF21W.png" alt="my experience in the industry">
-                    <v-expand-transition>
-                          <v-sheet color="#E2E2E2" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a href="#" class="black--text mt-18" style="text-decoration:none">Link unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                    </v-img>
-                    <p class="portfolio-text black--text pb-5">Nature’s Pasture</p>
-                  </v-card>
-                  </v-hover>
-                </div> -->
-
-                <div class="ml-4 mt-n16">
-                  <v-hover v-slot="{ hover }">
-                    <v-card color="#DD99A3">
-                      <v-img width="270"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_1__A89QxeXXT.png"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#DD99A3" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.85">
-                            <v-layout class="white--text headline" row justify-center>
-                              <a href="#" class="white--text mt-18" style="text-decoration:none">Link unavailable</a>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="portfolio-text pb-5">Mindfuliving Uganda</p>
-                    </v-card>
-                  </v-hover>
-                </div>
+              </div>
+              <!--  -->
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
@@ -511,94 +468,177 @@
           <center class="mt-5">
             <div id="career" class="">
               <v-layout column justify-center align-center mb-8>
-                <p class="display-2 font-weight-light">My Work</p>
+                <p class="display-2 font-weight-light">UI/UX Work</p>
                 <p class="body-2 ml-1"> projects I've worked on...</p>
               </v-layout>
-              <v-layout column justify-center align-center>
+               <v-layout row justify-center>
+                 <!--  -->
+              <div class="mt-n5">
+              <v-layout row justify-center>
+                 <!-- Alero  -->
                 <div class="ml-4">
-                  <a target="_blank" rel="nofollow" href="https://brickcom.alero.co.ke/" class="white--text mt-18"
-                    style="text-decoration:none">
-                    <v-card color="#262AA3">
-                      <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Brick_VMod9FoSn.png"
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
                         alt="my experience in the industry">
-                      <p class="portfolio-text pb-5">Brickcom Logistics Limited</p>
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light pb-5 des">UI/UX Design | Branding | Social Media Marketing</p>
                     </v-card>
-                  </a>
+                  </v-hover>
                 </div>
+                 <!-- The Paint Depo  -->
                 <div class="ml-4">
-                  <a target="_blank" rel="nofollow" href="https://www.thepaintdepo.co.ke/" class="white--text mt-18"
-                    style="text-decoration:none">
-                    <v-card color="#662583">
-                      <img width="450"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_1__2x7IrMzxb.png"
-                        alt="">
-                      <p class="portfolio-text pb-5">Paint Depo Limited</p>
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">paint and coatings</p>
+                              <p class="headline black--text mt-n3">The Paint Depo</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
                     </v-card>
-                  </a>
+                  </v-hover>
                 </div>
+                <!-- Class & Sass -->
                 <div class="ml-4">
-                  <a target="_blank" rel="nofollow" href="" class="white--text mt-18" style="text-decoration:none">
-                    <v-card color="#FD7D12">
-                      <img width="450"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_DYdMlexzi.png" alt="">
-                      <p class="portfolio-text pb-5">LociFood Ecommerce</p>
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">fashion ecommerce</p>
+                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
                     </v-card>
-                  </a>
+                  </v-hover>
+                </div>
+                <!-- Ganana Developers -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">real estate</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Muhara Salon  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 21, 9, 0.4) -13.68%, rgba(52, 21, 9, 0.2627) 20.56%, rgba(52, 21, 9, 0) 90.67%);" to="/portfolio/muharabeauty" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">beauty Salon & cosmetics</p>
+                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Alero ERP Mobile Hybrid application -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(25, 109, 166, 0.4) -13.68%, rgba(25, 109, 166, 0.2627) 20.56%, rgba(25, 109, 166, 0) 90.67%);" to="/portfolio/aleroerpapp" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Online Retailing</p>
+                              <p class="headline black--text mt-n3">Alero ERP Cloud</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Celebuddy
+                 -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Entertainment</p>
+                              <p class="headline black--text mt-n3">Celebuddy</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Mindfulliving -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Wellbeing</p>
+                              <p class="headline black--text mt-n3">Mindfulliving Uganda</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
                 </div>
               </v-layout>
-              <v-layout column justify-center align-center>
-                <div class="ml-4">
-                  <a target="_blank" href="https://www.alero.co.ke/" rel="nofollow" class="white--text mt-18"
-                    style="text-decoration:none">
-                    <v-card color="#264C2D">
-                      <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_38_jEHh4q7Lk.png"
-                        alt="my experience in the industry">
-                      <p class="portfolio-text pb-5">Alero Corporation</p>
-                    </v-card>
-                  </a>
-                </div>
-                <div class="ml-4">
-                  <v-card color="#0A093D">
-                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_13_o3eUpKY9C.png"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
-                  </v-card>
-                </div>
-                <div class="ml-4">
-                  <v-card color="#DC121F">
-                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Health App</p>
-                  </v-card>
-                </div>
-              </v-layout>
-              <v-layout column justify-center align-center>
-                <!-- <div class="ml-4">
-                  <v-card flat color="transparent">
-                    <v-img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div>
-                <div class="ml-4">
-                  <v-card flat color="transparent">
-                    <v-img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div> -->
-                <!-- <div class="ml-4">
-                  <v-card color="#E2E2E2">
-                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_2__0rftxF21W.png" alt="my experience in the industry">
-                    <p class="portfolio-text black--text pb-5">Nature’s Pasture</p>
-                  </v-card>
-                </div> -->
-
-                <div class="ml-4">
-                  <v-card color="#DD99A3">
-                    <img width="450" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_1__A89QxeXXT.png"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Mindfuliving Uganda</p>
-                  </v-card>
-                </div>
+              </div>
+              <!--  -->
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
@@ -656,96 +696,177 @@
           <center class="mt-5">
             <div id="career" class="">
               <v-layout column justify-center align-center mb-8>
-                <p class="display-2 font-weight-light">My Work</p>
+                <p class="display-2 font-weight-light">UI/UX Work</p>
                 <p class="body-2 ml-1"> projects I've worked on...</p>
               </v-layout>
-              <v-layout column justify-center align-center>
-                <div>
-                  <a target="_blank" rel="nofollow" href="https://brickcom.alero.co.ke/">
-                    <v-card color="#262AA3">
-                      <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Brick_VMod9FoSn.png"
-                        alt="my experience in the industry">
-                      <p class="portfolio-text pb-5">Brickcom Logistics Limited</p>
-                    </v-card>
-                  </a>
-                </div>
-                <div>
-                  <a target="_blank" rel="nofollow" href="https://www.thepaintdepo.co.ke/">
-                    <v-card color="#662583">
-                      <img width="350"
-                        src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Paint_Depo_Limited_1__2x7IrMzxb.png"
-                        alt="">
-                      <p class="portfolio-text pb-5">Paint Depo Limited</p>
-                    </v-card>
-                  </a>
-                </div>
-                <div>
-                  <v-card color="#FD7D12">
-                    <img width="350"
-                      src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/LociFood_Ecommerce_DYdMlexzi.png" alt="">
-                    <p class="portfolio-text pb-5">LociFood Ecommerce</p>
-                  </v-card>
-                </div>
-              </v-layout>
-              <v-layout column justify-center align-center>
-                <div>
-                  <a target="_blank" rel="nofollow" href="https://www.alero.co.ke/">
-                    <v-card color="#264C2D">
-                      <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_38_jEHh4q7Lk.png"
-                        alt="my experience in the industry">
-                      <p class="portfolio-text pb-5">Alero Corporation</p>
-                    </v-card>
-                  </a>
-                </div>
-                <div>
-                  <v-card color="#0A093D">
-                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Frame_13_o3eUpKY9C.png"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Joshua Kimbareeba</p>
-                  </v-card>
-                </div>
-                <div>
-                  <v-card color="#DC121F">
-                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/Health_App_9wOIhC8StKwZ.svg"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Health App</p>
-                  </v-card>
-                </div>
-              </v-layout>
-              <v-layout column justify-center align-center>
-                <!-- <div class="ml-4">
-                  <v-card flat color="transparent">
-                    <v-img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div>
+              <v-layout row justify-center>
+                 <!--  -->
+              <div class="mt-n5">
+              <v-layout row justify-center>
+                 <!-- Alero  -->
                 <div class="ml-4">
-                  <v-card flat color="transparent">
-                    <v-img width="270" src="../assets/images/empty-slot.svg" alt="">
-                    <p class="portfolio-text pb-5"></p>
-                  </v-card>
-                </div> -->
-                <!-- <div>
-                  <v-card color="#E2E2E2">
-                    <img width="350" src="../assets/images/Coming Soon.svg" alt="">
-                    <p class="portfolio-text dark pb-5">LearnHub</p>
-                  </v-card>
-                </div> -->
-                <!-- <div>
-                  <v-card color="#E2E2E2">
-                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_2__0rftxF21W.png"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text black--text pb-5">Nature’s Pasture</p>
-                  </v-card>
-                </div> -->
-
-                <div>
-                  <v-card color="#DD99A3">
-                    <img width="350" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/web-design_1__A89QxeXXT.png"
-                      alt="my experience in the industry">
-                    <p class="portfolio-text pb-5">Mindfuliving Uganda</p>
-                  </v-card>
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">creative agency</p>
+                              <p class="headline black--text mt-n3">Alero</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light pb-5 des">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
                 </div>
+                 <!-- The Paint Depo  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">paint and coatings</p>
+                              <p class="headline black--text mt-n3">The Paint Depo</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Class & Sass -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">fashion ecommerce</p>
+                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Ganana Developers -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">real estate</p>
+                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding | Social Media Marketing</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Muhara Salon  -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 21, 9, 0.4) -13.68%, rgba(52, 21, 9, 0.2627) 20.56%, rgba(52, 21, 9, 0) 90.67%);" to="/portfolio/muharabeauty" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">beauty Salon & cosmetics</p>
+                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Alero ERP Mobile Hybrid application -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(25, 109, 166, 0.4) -13.68%, rgba(25, 109, 166, 0.2627) 20.56%, rgba(25, 109, 166, 0) 90.67%);" to="/portfolio/aleroerpapp" target="_blank">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Online Retailing</p>
+                              <p class="headline black--text mt-n3">Alero ERP Cloud</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Celebuddy
+                 -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Entertainment</p>
+                              <p class="headline black--text mt-n3">Celebuddy</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+                <!-- Mindfulliving -->
+                <div class="ml-4">
+                  <v-hover v-slot="{ hover }">
+                    <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                        alt="my experience in the industry">
+                        <v-expand-transition>
+                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
+                            style="height:100%;opacity:0.8">
+                             <v-layout column justify-center>
+                               <p class="overline black--text mt-18">Wellbeing</p>
+                              <p class="headline black--text mt-n3">Mindfulliving Uganda</p>
+                            </v-layout>
+                          </v-sheet>
+                        </v-expand-transition>
+                      </v-img>
+                      <p class="body-2 font-weight-light des pb-5">UI/UX Design | Branding</p>
+                    </v-card>
+                  </v-hover>
+                </div>
+              </v-layout>
+              </div>
+              <!--  -->
               </v-layout>
             </div>
             <v-layout column justify-center align-center mt-19>
@@ -797,6 +918,44 @@
   </div>
 </template>
 
+<script>
+import Header from '@/components/header/index.header.vue'
+export default {
+  components: {
+    'main-header': Header
+  },
+  head: {
+    title: {
+      inner: 'My work'
+    },
+    meta: [{
+      name: 'application-name',
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
+    },
+    {
+      name: 'description',
+      content: 'Welcome to Stephanie\'s Kirathe official website. This is the portfolio page, feel free to reach out to me anytime',
+      id: 'desc'
+    }, // id to replace intead of create element
+    // ...
+    // Google+ / Schema.org
+    {
+      itemprop: 'name',
+      content: 'portfolio page'
+    },
+    {
+      itemprop: 'description',
+      content: 'Welcome to Stephanie\'s Kirathe official website.This is the portfolio page, feel free to reach out to me anytime'
+    },
+    {
+      property: 'og:title',
+      content: 'Stephanie\'s Kirathe official website.This is the portfolio page'
+    }
+    ]
+  }
+}
+</script>
+
 <style scoped>
   .portfolio-text {
     font-family: Helvetica Neue;
@@ -822,5 +981,10 @@
 
   a {
     text-decoration: none;
+  }
+
+  .des {
+    color:#AC7339;
+    font-weight: 400;
   }
 </style>

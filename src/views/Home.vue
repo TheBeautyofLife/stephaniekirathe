@@ -3,145 +3,55 @@
     <!--------------------------   Larger screen >= 1440px ------------------------------>
     <v-flex xs12 hidden-md-and-down hidden-sm-and-down>
       <v-layout column wrap mb-9>
-        <main-header></main-header>
-        <v-container style="width:1200px" class="my-17">
+        <main-header style="z-index:1"></main-header>
+        <div class="my-n19 mb-10">
+          <v-sheet>
+          <v-carousel
+    cycle
+    height="1000"
+    hide-delimiters
+    :show-arrows="false"
+  >
+    <v-carousel-item
+      v-for="(item,i) in items"
+      :key="i"
+      :src="item.src"
+      style="width:100vw!important"
+    >
+
+    </v-carousel-item>
+  </v-carousel>
+          </v-sheet>
+  <v-layout row justify-center align-center my-n15 pa-5>
+    <v-flex ml-14>
+      <v-card flat color="transparent" style="z-index:1">
+         <p style="width:450px;color:#CD9E6F;font-weight: 400;font-size: 14px;">Stephanie is a <strong style="font-style: italic;"> multidisciplinary</strong> designer, with a focus on user experiences, and human centric designs. Her <strong style="font-style: italic;">passion</strong> is to improve peoples everyday interactions with digital products.</p>
+      </v-card>
+    </v-flex>
+    <v-flex ml-12>
+      <v-card flat color="transparent" style="z-index:1">
+         <v-img class="bounce-top" width="50" src="../assets/icons/scroller.svg"></v-img>
+      </v-card>
+    </v-flex>
+      <v-flex justify-end ml-16>
+      <v-card flat color="transparent" style="z-index:1">
+        <v-layout rowwrap>
+          <v-btn to="/portfolio" class="mr-5" outlined rounded color="#CD9E6F">VIEW DESIGN WORK</v-btn>
+          <!-- <v-btn outlined rounded color="#CD9E6F">VIEW DESIGN WORK</v-btn> -->
+        </v-layout>
+      </v-card>
+      </v-flex>
+    </v-layout>
+        </div>
+        <v-container style="width:1200px" class="my-20">
           <p class="main-title">I am a</p>
           <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
           <img width="1200px" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/cover_zYWNP3JLbm.svg" alt="">
+          <div>
           <center class="mt-10">
-           <v-divider width="1200px"></v-divider>
-            <v-layout column justify-start align-start  mt-17>
-                <div class="display-3 mb-4">Portfolio</div>
-              </v-layout>
-            <!--  -->
-            <div class="mt-n5">
-              <v-layout row justify-center>
-                 <!-- Alero  -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/alero" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_4o1RGsjQM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340376"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">creative agency</p>
-                              <p class="headline black--text mt-n3">Alero</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding | Social Media Marketing</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                 <!-- The Paint Depo  -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_qu1uQlInV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605341034"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">paint and coatings</p>
-                              <p class="headline black--text mt-n3">The Paint Depo</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <!-- Class & Sass -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/classandsasskenya" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">fashion ecommerce</p>
-                              <p class="headline black--text mt-n3">Class & Sass Kenya</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <!-- Ganana Developers -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/gananadevelopers" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">real estate</p>
-                              <p class="headline black--text mt-n3">Ganana Developers Ltd.</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding | Social Media Marketing</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <!-- Muhara Salon  -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/muharabeauty" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">beauty Salon and cosmetic agency</p>
-                              <p class="headline black--text mt-n3">Muhara Hair & Beauty</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design | Branding</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-                <!-- Alero ERP Mobile Hybrid application -->
-                <div class="ml-4">
-                  <v-hover v-slot="{ hover }">
-                    <v-card flat color="#fff" to="/portfolio/aleroerpapp" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/aleroERP_zDPa1OC6H.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340429"
-                        alt="my experience in the industry">
-                        <v-expand-transition>
-                          <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
-                            style="height:100%;opacity:0.8">
-                             <v-layout column justify-center>
-                               <p class="overline black--text mt-18">creative agency</p>
-                              <p class="headline black--text mt-n3">Alero</p>
-                            </v-layout>
-                          </v-sheet>
-                        </v-expand-transition>
-                      </v-img>
-                      <p class="body-2 font-weight-light black--text pb-5">UI/UX Design</p>
-                    </v-card>
-                  </v-hover>
-                </div>
-              </v-layout>
-              </div>
-              <!--  -->
               <v-divider class="mt-9" width="1200px"></v-divider>
             <div class="mt-17 quotes">
               <p class="title font-weight-medium font-italic">
@@ -410,6 +320,7 @@ One of the most reliable models for understanding customer behaviour is what’s
               </v-layout>
             </div>
           </center>
+          </div>
         </v-container>
       </v-layout>
       <div>
@@ -426,7 +337,46 @@ One of the most reliable models for understanding customer behaviour is what’s
     <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
       <v-layout column wrap mb-9>
-        <main-header></main-header>
+        <main-header style="z-index:1"></main-header>
+        <div class="my-n19 mb-10">
+          <v-sheet>
+          <v-carousel
+    cycle
+    height="1000"
+    hide-delimiters
+    :show-arrows="false"
+  >
+    <v-carousel-item
+      v-for="(item,i) in items"
+      :key="i"
+      :src="item.src"
+      style="width:100vw!important"
+    >
+
+    </v-carousel-item>
+  </v-carousel>
+          </v-sheet>
+  <v-layout row justify-center align-center my-n15 pa-5>
+    <v-flex ml-7>
+      <v-card flat color="transparent" style="z-index:1">
+         <p style="width:340px;color:#CD9E6F;font-weight: 400;font-size: 14px;">Stephanie is a <strong style="font-style: italic;"> multidisciplinary</strong> designer, with a focus on user experiences, and human centric designs. Her <strong style="font-style: italic;">passion</strong> is to improve peoples everyday interactions with digital products.</p>
+      </v-card>
+    </v-flex>
+    <v-flex ml-12>
+      <v-card flat color="transparent" style="z-index:1">
+         <v-img class="bounce-top" width="50" src="../assets/icons/scroller.svg"></v-img>
+      </v-card>
+    </v-flex>
+      <v-flex justify-end ml-16>
+      <v-card flat color="transparent" style="z-index:1">
+        <v-layout rowwrap>
+          <v-btn to="/portfolio" class="mr-5" outlined rounded color="#CD9E6F">VIEW DESIGN WORK</v-btn>
+          <!-- <v-btn outlined rounded color="#CD9E6F">VIEW DESIGN WORK</v-btn> -->
+        </v-layout>
+      </v-card>
+      </v-flex>
+    </v-layout>
+        </div>
         <v-container style="width:950px" class="my-17">
           <p class="main-title">I am a</p>
           <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
@@ -446,7 +396,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/alero" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_4o1RGsjQM.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340376"
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -466,7 +416,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_qu1uQlInV.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605341034"
+                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -486,7 +436,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/classandsasskenya" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -506,7 +456,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/gananadevelopers" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_fWWUlrXsDY.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340533"
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -526,7 +476,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+   <v-img width="370" src="../assets/images/Portfolio/Cover/Muhara.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -546,7 +496,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/aleroerpapp" target="_blank">
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/aleroERP_zDPa1OC6H.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340429"
+   <v-img width="370" src="../assets/images/Portfolio/Cover/aleroERP.png"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -1479,6 +1429,30 @@ export default {
       content: 'Welcome to Stephanie\'s Kirathe official website'
     }
     ]
+  },
+  data () {
+    return {
+      items: [
+        {
+          src: require('../assets/images/Portfolio/Main/Alero - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/PaintDepo - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Mindfuliving_website - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Class & Sass - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Muhara - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Ganana - 1.png')
+        }
+      ]
+    }
   }
 }
 
@@ -1500,4 +1474,117 @@ export default {
     text-decoration: none;
   }
 
+ .bounce-top {
+  -webkit-animation: bounce-top 4s 9s infinite both;
+          animation: bounce-top 4s 9s infinite both;
+}
+/**
+ * ----------------------------------------
+ * animation bounce-top
+ * ----------------------------------------
+ */
+@-webkit-keyframes bounce-top {
+  0% {
+    -webkit-transform: translateY(-45px);
+            transform: translateY(-45px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+    opacity: 1;
+  }
+  24% {
+    opacity: 1;
+  }
+  40% {
+    -webkit-transform: translateY(-24px);
+            transform: translateY(-24px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  65% {
+    -webkit-transform: translateY(-12px);
+            transform: translateY(-12px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  82% {
+    -webkit-transform: translateY(-6px);
+            transform: translateY(-6px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  93% {
+    -webkit-transform: translateY(-4px);
+            transform: translateY(-4px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  25%,
+  55%,
+  75%,
+  87% {
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
+  }
+  100% {
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
+    opacity: 1;
+  }
+}
+@keyframes bounce-top {
+  0% {
+    -webkit-transform: translateY(-45px);
+            transform: translateY(-45px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+    opacity: 1;
+  }
+  24% {
+    opacity: 1;
+  }
+  40% {
+    -webkit-transform: translateY(-24px);
+            transform: translateY(-24px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  65% {
+    -webkit-transform: translateY(-12px);
+            transform: translateY(-12px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  82% {
+    -webkit-transform: translateY(-6px);
+            transform: translateY(-6px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  93% {
+    -webkit-transform: translateY(-4px);
+            transform: translateY(-4px);
+    -webkit-animation-timing-function: ease-in;
+            animation-timing-function: ease-in;
+  }
+  25%,
+  55%,
+  75%,
+  87% {
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
+  }
+  100% {
+    -webkit-transform: translateY(0px);
+            transform: translateY(0px);
+    -webkit-animation-timing-function: ease-out;
+            animation-timing-function: ease-out;
+    opacity: 1;
+  }
+}
 </style>
