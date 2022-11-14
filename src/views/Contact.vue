@@ -19,13 +19,9 @@
                     I would love to work with you.
                   </p>
                   <div class="mt-20">
-                    <span>Call</span>
-                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
-                  </div>
-                  <div class="mt-5">
                     <span>Email</span>
-                    <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                        class="display-1 email">stephaniekirathe@alero.co.ke</a></h1>
+                    <h1><a target="_blank" href="mailto:stephaniekirathe@gmail.com"
+                        class="display-1 email">stephaniekirathe@gmail.com</a></h1>
                   </div>
                 </v-sheet>
                 <v-flex xs12 md4 class="ml-20 mt-17">
@@ -88,8 +84,7 @@
         <v-footer class="transparent pa-3">
           <v-layout column wrap justify-center align-center>
             <div class="caption grey--text">
-              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
-                class="caption grey--text">POWERED BY ALERO GROUP</a>
+              COPYRIGHT STEPHANIE KIRATHE 2023
             </div>
           </v-layout>
         </v-footer>
@@ -114,13 +109,9 @@
                     I would love to work with you.
                   </p>
                   <div class="mt-20">
-                    <span>Call</span>
-                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
-                  </div>
-                  <div class="mt-5">
                     <span>Email</span>
-                    <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke"
-                        class="display-1 email">stephaniekirathe@alero.co.ke</a></h1>
+                    <h1><a target="_blank" href="mailto:stephaniekirathe@gmail.com"
+                        class="display-1 email">stephaniekirathe@gmail.com</a></h1>
                   </div>
                 </v-sheet>
                 <v-flex xs12 md4 class="ml-19 mt-17">
@@ -183,8 +174,7 @@
         <v-footer class="transparent pa-3">
           <v-layout column wrap justify-center align-center>
             <div class="caption grey--text">
-              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
-                class="caption grey--text">POWERED BY ALERO GROUP</a>
+              COPYRIGHT STEPHANIE KIRATHE 2023
             </div>
           </v-layout>
         </v-footer>
@@ -209,13 +199,9 @@
                     I would love to work with you.
                   </p>
                   <div class="mt-10">
-                    <span>Call</span>
-                    <h1><a class="display-1  email" href="tel:+254729245657">+254729245657</a></h1>
-                  </div>
-                  <div class="mt-5">
                     <span>Email</span>
-                    <h1><a target="_blank" htransparentref="mailto:stephaniekirathe@alero.co.ke"
-                        class="title  email">stephaniekirathe@alero.co.ke</a></h1>
+                    <h1><a target="_blank" htransparentref="mailto:stephaniekirathe@gmail.com"
+                        class="title  email">stephaniekirathe@gmail.com</a></h1>
                   </div>
                 </v-sheet>
                 <v-sheet width="450" class="transparent mt-17 ml-12">
@@ -278,8 +264,7 @@
         <v-footer class="transparent pa-3">
           <v-layout column wrap justify-center align-center>
             <div class="caption grey--text">
-              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
-                class="caption grey--text">POWERED BY ALERO GROUP</a>
+              COPYRIGHT STEPHANIE KIRATHE 2023
             </div>
           </v-layout>
         </v-footer>
@@ -301,13 +286,9 @@
                 I would love to work with you.
               </p>
               <div class="mt-10">
-                <span>Call</span>
-                <h1><a class="title  email" href="tel:+254729245657">+254729245657</a></h1>
-              </div>
-              <div class="mt-5">
                 <span>Email</span>
-                <h1><a target="_blank" href="mailto:stephaniekirathe@alero.co.ke" class="title  email"
-                    style="text-decoration: none;">stephaniekirathe@alero.co.ke</a></h1>
+                <h1><a target="_blank" href="mailto:stephaniekirathe@gmail.com" class="title  email"
+                    style="text-decoration: none;">stephaniekirathe@gmail.com</a></h1>
               </div>
             </div>
             <div class="mt-8">
@@ -359,34 +340,13 @@
             </div>
           </v-layout>
         </div>
-        <!-- <v-snackbar
-      v-model="snackbar"
-      :timeout="timeout"
-      absolute
-      bottom
-      color="#CD9E6F"
-      class="headline font-weight-medium"
-    >
-      {{ text }}
-
-      <template v-slot:action="{ attrs }">
-        <v-btn
-          text
-          v-bind="attrs"
-          @click="snackbar = false"
-        >
-          Close
-        </v-btn>
-      </template>
-    </v-snackbar> -->
       </v-layout>
       <div>
         <v-divider></v-divider>
         <v-footer class="transparent pa-3">
           <v-layout column wrap justify-center align-center>
             <div class="caption grey--text">
-              COPYRIGHT STEPHANIE KIRATHE 2020 | <a href="http://www.alero.co.ke" target="_blank" rel="dofollow"
-                class="caption grey--text">POWERED BY ALERO GROUP</a>
+              COPYRIGHT STEPHANIE KIRATHE 2023
             </div>
           </v-layout>
         </v-footer>

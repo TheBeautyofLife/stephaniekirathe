@@ -25,7 +25,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -75,7 +75,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -125,7 +125,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"

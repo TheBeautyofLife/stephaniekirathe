@@ -45,7 +45,7 @@
         </div>
         <v-container style="width:1200px; margin-top:350px!important" class="my-2">
           <p class="main-title">I am a</p>
-          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
+          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer,  Design Sprinter, Entrepreneur</p>
           <p class="main-title mb-8">Product Designer</p>
         </v-container>
         <v-container style="width:1200px" class="my-n8">
@@ -228,7 +228,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 </div>
               </v-layout>
             </div>
-            <div id="career" class="mt-16">
+            <!-- <div id="career" class="mt-16">
               <v-layout column justify-start align-start mb-4>
                 <p class="body-2 font-italic">Front-end Develpment tools & frameworks I use</p>
               </v-layout>
@@ -251,7 +251,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 </div>
 
               </v-layout>
-            </div>
+            </div> -->
           </center>
           <!--  -->
           <center class="mt-10">
@@ -286,7 +286,7 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
                       alt="https://web.facebook.com/stephkirathe">
@@ -294,11 +294,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a> -->
                   <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
@@ -310,11 +305,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                  </a>
-                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="20" src="../assets/icons/socials/Figma.svg"
-                      alt="https://www.figma.com/@stephkirathe">
                   </a>
                 </v-layout>
               </v-layout>
@@ -328,7 +318,7 @@ One of the most reliable models for understanding customer behaviour is what’s
       <v-footer class="transparent pa-3">
         <v-layout column wrap justify-center align-center>
        <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+         COPYRIGHT   STEPHANIE KIRATHE 2023
        </div>
        </v-layout>
       </v-footer>
@@ -379,7 +369,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         </div>
         <v-container style="width:950px" class="my-17">
           <p class="main-title">I am a</p>
-          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
+          <p class="main-desc">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer,  Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
         </v-container>
         <v-container style="width:950px" class="my-n8">
@@ -689,7 +679,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 </div>
               </v-layout>
             </div>
-            <div id="career" class="mt-16">
+            <!-- <div id="career" class="mt-16">
               <v-layout column justify-center align-center mb-4>
                 <p class="body-2">Front-end Develpment tools & frameworks I use</p>
               </v-layout>
@@ -711,7 +701,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <p class="mt-5 font-weight-medium">Vue.js</p>
                 </div>
               </v-layout>
-            </div>
+            </div> -->
           </center>
           <!--  -->
           <center class="mt-10">
@@ -756,11 +746,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a>
-                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="33" src="../assets/icons/socials/Twitter.svg"
-                      alt="https://www.instagram.com/stephkirathe">
-                  </a> -->
                   <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/LinkedIn.svg"
@@ -771,11 +756,11 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
                   </a>
-                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    <!-- <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="20" src="../assets/icons/socials/Figma.svg"
                       alt="https://www.figma.com/@stephkirathe">
-                  </a>
+                  </a> -->
                 </v-layout>
               </v-layout>
             </div>
@@ -787,7 +772,7 @@ One of the most reliable models for understanding customer behaviour is what’s
       <v-footer class="transparent pa-3">
         <v-layout column wrap justify-center align-center>
        <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+         COPYRIGHT   STEPHANIE KIRATHE 2023
        </div>
        </v-layout>
       </v-footer>
@@ -799,7 +784,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         <main-header class="pr-1"></main-header>
         <v-container class="my-17 pl-5 pr-5">
           <p class="main-title">I am a</p>
-          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
+          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer,  Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
           <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/mobile-cover_Rdh5BedQN.svg" class="mt-10" contain alt=""/>
         </v-container>
@@ -979,7 +964,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 </div>
               </v-layout>
             </div>
-            <div id="career" class="mt-16">
+            <!-- <div id="career" class="mt-16">
               <v-layout column justify-center align-center mb-4>
                 <p class="body-2">Front-end Develpment tools & frameworks I use</p>
               </v-layout>
@@ -1001,7 +986,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <p class="mt-5 font-weight-medium">Vue.js</p>
                 </div>
               </v-layout>
-            </div>
+            </div> -->
           </center>
           <!--  -->
           <center class="mt-10">
@@ -1036,7 +1021,7 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
                       alt="https://web.facebook.com/stephkirathe">
@@ -1044,11 +1029,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a> -->
                   <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
@@ -1061,11 +1041,11 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
                   </a>
-                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
+                    <!-- <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="20" src="../assets/icons/socials/Figma.svg"
                       alt="https://www.figma.com/@stephkirathe">
-                  </a>
+                  </a> -->
                 </v-layout>
               </v-layout>
             </div>
@@ -1077,7 +1057,7 @@ One of the most reliable models for understanding customer behaviour is what’s
       <v-footer class="transparent pa-3">
         <v-layout column wrap justify-center align-center>
        <div class="caption grey--text">
-         COPYRIGHT   STEPHANIE KIRATHE 2020   |  <a href="http://www.alero.co.ke" target="_blank" rel="dofollow" class="caption grey--text">POWERED BY ALERO GROUP</a>
+         COPYRIGHT   STEPHANIE KIRATHE 2023
        </div>
        </v-layout>
       </v-footer>
@@ -1089,7 +1069,7 @@ One of the most reliable models for understanding customer behaviour is what’s
         <main-header class="pr-1"></main-header>
         <v-container class="my-17 pl-5 pr-5">
           <p class="main-title">I am a</p>
-          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer, Front-end Developer, Dev Ops Facilitator, Design Sprinter, Entrepreneur</p>
+          <p class="main-desc-mobile">Out-of-the box thinker, Problem Solver, Creative, Workshop Facilitator, User Experience, User Interface Designer,  Design Sprinter, Entrepreneur</p>
           <p class="main-title">Product Designer</p>
           <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/mobile-cover_Rdh5BedQN.svg" class="mt-10" contain alt=""/>
         </v-container>
@@ -1269,7 +1249,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                 </div>
               </v-layout>
             </div>
-            <div id="career" class="mt-16">
+            <!-- <div id="career" class="mt-16">
               <v-layout column justify-center align-center mb-4>
                 <p class="body-2">Front-end Develpment tools & frameworks I use</p>
               </v-layout>
@@ -1295,7 +1275,7 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <p class="mt-5 font-weight-medium">Node.js</p>
                 </div>
               </v-layout>
-            </div>
+            </div> -->
           </center>
           <!--  -->
           <center class="mt-10">
@@ -1330,7 +1310,7 @@ One of the most reliable models for understanding customer behaviour is what’s
               <v-layout column justify-center align-center mt-19>
                 <div class="social-text">Follow, Like & Subscribe </div>
                 <v-layout row wrap mt-3>
-                  <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
+                  <!-- <a href="https://web.facebook.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Facebook.svg"
                       alt="https://web.facebook.com/stephkirathe">
@@ -1338,11 +1318,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                   <a href="https://www.instagram.com/stephkirathe" target="_blank" rel="noopener noreferrer"
                     class="ma-3">
                     <img width="33" src="../assets/icons/socials/Instagram.svg"
-                      alt="https://www.instagram.com/stephkirathe">
-                  </a>
-                  <!-- <a href="https://www.twitter.com/stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="33" src="../assets/icons/socials/Twitter.svg"
                       alt="https://www.instagram.com/stephkirathe">
                   </a> -->
                   <a href="https://www.linkedin.com/in/stephkirathe" target="_blank" rel="noopener noreferrer"
@@ -1354,11 +1329,6 @@ One of the most reliable models for understanding customer behaviour is what’s
                   class="ma-3">
                   <img width="36" src="../assets/icons/socials/Behance.svg"
                     alt="https://www.behance.net/stephkirathe" class="mt-1">
-                  </a>
-                    <a href="https://www.figma.com/@stephkirathe" target="_blank" rel="noopener noreferrer"
-                    class="ma-3">
-                    <img width="20" src="../assets/icons/socials/Figma.svg"
-                      alt="https://www.figma.com/@stephkirathe">
                   </a>
                 </v-layout>
               </v-layout>
@@ -1407,11 +1377,11 @@ export default {
     },
     meta: [{
       name: 'application-name',
-      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer'
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface,  design sprinter, enterprenuer and product designer'
     },
     {
       name: 'description',
-      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer',
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface,  design sprinter, enterprenuer and product designer',
       id: 'desc'
     }, // id to replace intead of create element
     // ...
@@ -1422,7 +1392,7 @@ export default {
     },
     {
       itemprop: 'description',
-      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface, front-end developer, dev ops facilitator, design sprinter, enterprenuer and product designer'
+      content: 'I am an out-of-the box thinkner, problem solver, creative, workshop facilitation, user experience, user interface,  design sprinter, enterprenuer and product designer'
     },
     {
       property: 'og:title',
