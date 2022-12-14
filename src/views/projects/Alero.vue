@@ -9,23 +9,23 @@
               <v-layout column justify-center align-center>
                  <v-card flat>
                   <v-layout row justify-center align-center>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 1.png" alt="Alero-1"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 2.png" alt="Alero-2"></v-img>
-                       <v-img src="../../assets/images/Portfolio/Alero/Alero - 3.png" alt="Alero-3"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 4.png" alt="Alero-4"></v-img>
+                     <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_1_YDC6d8zLm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143556980" alt="Alero-1"></v-img>
+                      <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_2_wWwbAZWAJy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143550326" alt="Alero-2"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_3_yVn_cmUtJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143568140" alt="Alero-3"></v-img>
+                      <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_4_gwxFJFixW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143549980" alt="Alero-4"></v-img>
                   </v-layout>
                  </v-card>
                  <v-card flat>
                   <v-layout column justify-center align-center>
-                    <v-img src="../../assets/images/Portfolio/Alero/Alero - 5.png" alt="Alero-5"></v-img>
-                   <v-sheet class="mt-14" >
+                    <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_5_KB7EPmrx9O.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143562741" alt="Alero-5" class="mb-10"></v-img>
+                   <v-sheet>
                        <iframe src="https://player.vimeo.com/video/732640481?h=b3e456cd6b&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="1000" height="625" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Alero Corp. Website Design"></iframe>
                   </v-sheet>
                   </v-layout>
                  </v-card>
                  <v-card flat class="mt-16">
                   <v-layout column justify-center align-center>
-                   <v-img  src="../../assets/images/Portfolio/Alero/Alero - 6.png" alt="Alero-6"></v-img>
+                   <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_6_tnUxy0us-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143570568" alt="Alero-6"></v-img>
                       <v-img src=" " alt="Alero-1"></v-img>
                   </v-layout>
                  </v-card>
@@ -66,20 +66,20 @@
               <v-layout column justify-center align-center>
                  <v-card flat>
                   <v-layout row justify-center align-center>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 1.png" alt="Alero-1"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 2.png" alt="Alero-2"></v-img>
-                       <v-img class="my-n9" src="../../assets/images/Portfolio/Alero/Alero - 3.png" alt="Alero-3"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 4.png" alt="Alero-4"></v-img>
+                     <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_1_YDC6d8zLm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143556980" alt="Alero-1"></v-img>
+                      <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_2_wWwbAZWAJy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143550326" alt="Alero-2"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_3_yVn_cmUtJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143568140" alt="Alero-3"></v-img>
+                      <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_4_gwxFJFixW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143549980" alt="Alero-4"></v-img>
                   </v-layout>
                  </v-card>
                  <v-card flat>
                   <v-layout column justify-center align-center>
-                    <v-img src="../../assets/images/Portfolio/Alero/Alero - 5.png" alt="Alero-5"></v-img>
+                    <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_5_KB7EPmrx9O.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143562741" alt="Alero-5"></v-img>
                   </v-layout>
                  </v-card>
                  <v-card flat class="mt-18">
                   <v-layout fullscreen column justify-center align-center>
-                   <v-img  src="../../assets/images/Portfolio/Alero/Alero - 6.png" alt="Alero-6"></v-img>
+                      <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_6_tnUxy0us-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143570568" alt="Alero-6"></v-img>
                       <v-img src=" " alt="Alero-1"></v-img>
                   </v-layout>
                  </v-card>
@@ -120,12 +120,10 @@
               <v-layout justify-center align-center>
                  <v-card flat>
                   <v-layout row justify-center align-center>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 1.png" alt="Alero-1"></v-img>
-                      <v-img  src="../../assets/images/Portfolio/Alero/Alero - 2.png" alt="Alero-2"></v-img>
-                       <v-img src="../../assets/images/Portfolio/Alero/Alero - 3.png" alt="Alero-3"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 4.png" alt="Alero-4"></v-img>
-                       <v-img src="../../assets/images/Portfolio/Alero/Alero - 5.png" alt="Alero-5"></v-img>
-                       <v-img  src="../../assets/images/Portfolio/Alero/Alero - 6.png" alt="Alero-6"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_1_YDC6d8zLm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143556980" alt="Alero-1"></v-img>
+                      <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_2_wWwbAZWAJy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143550326" alt="Alero-2"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_3_yVn_cmUtJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143568140" alt="Alero-3"></v-img>
+                      <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_4_gwxFJFixW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143549980" alt="Alero-4"></v-img>
                       <v-img src=" " alt="Alero-1"></v-img>
                   </v-layout>
                  </v-card>
@@ -166,12 +164,10 @@
               <v-layout justify-center align-center>
                  <v-card flat>
                   <v-layout row justify-center align-center>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 1.png" alt="Alero-1"></v-img>
-                      <v-img  src="../../assets/images/Portfolio/Alero/Alero - 2.png" alt="Alero-2"></v-img>
-                       <v-img src="../../assets/images/Portfolio/Alero/Alero - 3.png" alt="Alero-3"></v-img>
-                      <v-img src="../../assets/images/Portfolio/Alero/Alero - 4.png" alt="Alero-4"></v-img>
-                       <v-img src="../../assets/images/Portfolio/Alero/Alero - 5.png" alt="Alero-5"></v-img>
-                       <v-img  src="../../assets/images/Portfolio/Alero/Alero - 6.png" alt="Alero-6"></v-img>
+                      <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_1_YDC6d8zLm.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143556980" alt="Alero-1"></v-img>
+                      <v-img  src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_2_wWwbAZWAJy.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143550326" alt="Alero-2"></v-img>
+                       <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_3_yVn_cmUtJ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143568140" alt="Alero-3"></v-img>
+                      <v-img src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/alero/Alero_-_4_gwxFJFixW.png?ik-sdk-version=javascript-1.4.3&updatedAt=1667143549980" alt="Alero-4"></v-img>
                       <v-img src=" " alt="Alero-1"></v-img>
                   </v-layout>
                  </v-card>

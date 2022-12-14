@@ -1420,6 +1420,15 @@ export default {
         },
         {
           src: require('../assets/images/Portfolio/Main/Ganana - 1.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Fame - 2.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/Alero_B.png')
+        },
+        {
+          src: require('../assets/images/Portfolio/Main/HRDTimes.png')
         }
       ]
     }

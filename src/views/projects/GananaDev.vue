@@ -3,8 +3,8 @@
     <!--------------------------   Larger screen >= 1440px ------------------------------>
     <v-flex xs12 hidden-md-and-down hidden-sm-and-down>
          <v-layout column wrap mb-9>
-              <main-header></main-header>
-        <v-container style="width:1200px" class="my-12">
+              <main-header style="background-color:#116347;z-index:1"></main-header>
+        <v-container fluid class="my-n15">
              <v-sheet>
               <v-layout justify-center align-center>
                  <v-card flat>
@@ -48,10 +48,10 @@
                <v-layout justify-end>
 
                 <!-- Muhara Salon  -->
-                <div class="ml-4">
+                <!-- <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -65,7 +65,7 @@
                       </v-img>
                     </v-card>
                   </v-hover>
-                </div>
+                </div> -->
 
               </v-layout>
                 </v-layout>
@@ -76,8 +76,8 @@
         <!-------------------------- Larger screen >= 1024px  ------------------------------->
     <v-flex xs12 hidden-sm-and-down hidden-xl-only hidden-lg-only>
          <v-layout column wrap mb-9>
-             <main-header></main-header>
-        <v-container style="width:950px" class="my-17">
+             <main-header style="background-color:#116347;z-index:1"></main-header>
+        <v-container fluid class="my-n13">
              <v-sheet>
               <v-layout justify-center align-center>
                  <v-card flat>
@@ -100,7 +100,7 @@
                 <div>
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/classandsasskenya" >
-             <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -120,10 +120,10 @@
                <v-layout justify-end>
 
                 <!-- Muhara Salon  -->
-                <div class="ml-4">
+                <!-- <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -137,7 +137,7 @@
                       </v-img>
                     </v-card>
                   </v-hover>
-                </div>
+                </div> -->
 
               </v-layout>
                 </v-layout>
@@ -148,8 +148,8 @@
         <!-------------------------- Tablet screens <= 768px  ------------------------------->
     <v-flex xs12 hidden-xs-only hidden-md-only hidden-xl-only hidden-lg-only>
      <v-layout column wrap mb-9>
-        <main-header></main-header>
-        <v-container class="my-9">
+        <main-header style="background-color:#116347;z-index:1"></main-header>
+        <v-container fluid class="my-n13">
                  <v-sheet>
               <v-layout justify-center align-center>
                  <v-card flat>
@@ -172,7 +172,7 @@
                 <div>
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/classandsasskenya" >
-             <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_oCvuuCnrNO.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340534"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -192,10 +192,10 @@
                <v-layout justify-end>
 
                 <!-- Muhara Salon  -->
-                <div class="ml-4">
+                <!-- <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat color="#fff" to="/portfolio/muharabeauty" >
-   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Muhara_bfPWg3Rtq.png?ik-sdk-version=javascript-1.4.3&updatedAt=1656605340796"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -209,7 +209,7 @@
                       </v-img>
                     </v-card>
                   </v-hover>
-                </div>
+                </div> -->
 
               </v-layout>
                 </v-layout>
@@ -220,7 +220,7 @@
         <!-------------------------- Mobile screens < 425px --------------------------------->
     <v-flex xs12 hidden-sm-and-up hidden-md-and-up>
       <v-layout column wrap mb-9>
-        <v-container class="my-9">
+        <v-container fluid class="my-n7">
                  <v-sheet>
               <v-layout justify-center align-center>
                  <v-card flat>

@@ -9,7 +9,7 @@
           <center class="mt-10">
             <div id="career" class="mt-19">
               <v-layout column justify-start align-start mb-8>
-                <p class="display-3 mb-4">UI/UX Work</p>
+                <p class="display-3 mb-4">User Interface Design</p>
                 <p class="body-2 ml-1"> projects I've worked on...</p>
               </v-layout>
               <v-layout row justify-center>
@@ -20,7 +20,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_Uo6xV0jFA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037486961"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -40,7 +40,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_aO40z72AG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037498564"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -60,7 +60,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_LNLe6VS9Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037493135"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -80,7 +80,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_161v11Wtl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037494321"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -141,7 +141,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Celebuddy_3u_gNjSBjz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499841"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -161,7 +161,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Mindfulliving_jZ3GStiuQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499121"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -185,6 +185,7 @@
                <!--  -->
               </v-layout>
             </div>
+            <!-- ********************** -->
             <v-layout column justify-center align-center mt-19>
               <div class="social-text font-weight-bold">Follow, Like & Subscribe </div>
               <v-layout row wrap mt-3>
@@ -244,7 +245,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_Uo6xV0jFA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037486961"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -264,7 +265,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_aO40z72AG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037498564"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -284,7 +285,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
-                     <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                     <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_LNLe6VS9Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037493135"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -304,7 +305,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_161v11Wtl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037494321"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -365,7 +366,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Celebuddy_3u_gNjSBjz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499841"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -385,7 +386,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Mindfulliving_jZ3GStiuQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499121"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -465,7 +466,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_Uo6xV0jFA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037486961"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -485,7 +486,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_aO40z72AG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037498564"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -505,7 +506,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_LNLe6VS9Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037493135"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -525,7 +526,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_161v11Wtl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037494321"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -585,7 +586,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Celebuddy_3u_gNjSBjz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499841"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -605,7 +606,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Mindfulliving_jZ3GStiuQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499121"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -683,7 +684,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(249, 180, 40, 0.4) -13.68%, rgba(249, 180, 40, 0.2627) 20.56%, rgba(249, 180, 40, 0) 90.67%);" to="/portfolio/alero" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Alero.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Alero_Uo6xV0jFA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037486961"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -703,7 +704,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(102, 37, 131, 0.4) -13.68%, rgba(102, 37, 131, 0.2627) 20.56%, rgba(102, 37, 131, 0) 90.67%);" to="/portfolio/paintdepo" target="_blank">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/PaintDepo.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/PaintDepo_aO40z72AG.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037498564"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -723,7 +724,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(231, 191, 191, 0.4) -13.68%, rgba(231, 191, 191, 0.2627) 20.56%, rgba(231, 191, 191, 0) 90.67%);" to="/portfolio/classandsasskenya" target="_blank">
-   <v-img width="370" src="../assets/images/Portfolio/Cover/Class & Sass.png"
+   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Class___Sass_LNLe6VS9Z.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037493135"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -743,7 +744,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(17, 99, 71, 0.4) -13.68%, rgba(17, 99, 71, 0.2627) 20.56%, rgba(17, 99, 71, 0) 90.67%);" to="/portfolio/gananadevelopers" target="_blank">
-   <v-img width="370" src="../assets/images/Portfolio/Cover/Ganana.png"
+   <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Ganana_161v11Wtl.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037494321"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -803,7 +804,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(246, 219, 150, 0.4) -13.68%, rgba(246, 219, 150, 0.2627) 20.56%, rgba(246, 219, 150, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Celebuddy.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Celebuddy_3u_gNjSBjz.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499841"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
@@ -823,7 +824,7 @@
                 <div class="ml-4">
                   <v-hover v-slot="{ hover }">
                     <v-card flat style="background: linear-gradient(180deg, rgba(52, 142, 145, 0.4) -13.68%, rgba(52, 142, 145, 0.2627) 20.56%, rgba(52, 142, 145, 0) 90.67%);">
-                      <v-img width="370" src="../assets/images/Portfolio/Cover/Mindfulliving.png"
+                      <v-img width="370" src="https://ik.imagekit.io/qpt2onjfe/StephanieKirathe/title/Mindfulliving_jZ3GStiuQ.png?ik-sdk-version=javascript-1.4.3&updatedAt=1671037499121"
                         alt="my experience in the industry">
                         <v-expand-transition>
                           <v-sheet color="#fff" v-if="hover" class="transition-fast-in-fast-out v-card--reveal"
